@@ -1,0 +1,680 @@
+protein,description,log_ratio_1,log_ratio_2,log_ratio_3,avg_ratio,sd_ratio,ratio_count
+P74464,P74464_SYNY3 General secretion pathway protein F OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gspF PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55901,MINC_SYNY3 Probable septum site-determining protein MinC OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=minC PE=3 SV=2,NA,NA,NA,NA,NA,0
+Q55680,Y005_SYNY3 Uncharacterized protein sll0005 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0005 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73300,RL36_SYNY3 50S ribosomal protein L36 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpmJ PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73111,P73111_SYNY3 Sll1835 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1835 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q59977,CISY_SYNY3 Citrate synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gltA PE=3 SV=1,NA,NA,NA,NA,NA,0
+P24602,BFR_SYNY3 Bacterioferritin OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=bfr PE=1 SV=2,NA,NA,NA,NA,NA,0
+P73553,MSCL_SYNY3 Large-conductance mechanosensitive channel OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=mscL PE=3 SV=1,NA,NA,NA,NA,NA,0
+P14835,PSBH_SYNY3 Photosystem II reaction center protein H OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psbH PE=1 SV=3,NA,NA,NA,NA,NA,0
+P73817,SLAP_SYNY3 S-layer protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1951 PE=1 SV=1,NA,NA,NA,NA,NA,0
+P27178,ATP6_SYNY3 ATP synthase subunit a OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=atpB PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72956,P72956_SYNY3 PleD gene product OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pleD PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55671,Q55671_SYNY3 Slr0013 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0013 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P38382,SECE_SYNY3 Protein translocase subunit SecE OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=secE PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73598,P73598_SYNY3 Sll1305 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1305 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55389,"FTRC_SYNY3 Ferredoxin-thioredoxin reductase, catalytic chain OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ftrC PE=1 SV=1",NA,NA,NA,NA,NA,0
+P74429,P74429_SYNY3 Ycf39 gene product OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ycf39 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74251,P74251_SYNY3 Sll1089 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1089 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74433,P74433_SYNY3 Slr0404 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0404 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73605,P73605_SYNY3 Slr1854 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1854 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P72932,P72932_SYNY3 High light inducible protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=hliA PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55505,DNAJ1_SYNY3 Chaperone protein DnaJ 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=dnaJ1 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73652,P73652_SYNY3 Sll1757 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1757 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q54735,CYNT_SYNY3 Carbonic anhydrase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=icfA PE=1 SV=1,NA,NA,NA,NA,NA,0
+P72864,P72864_SYNY3 Carboxysome formation protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ccmA PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74478,P74478_SYNY3 Slr1926 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1926 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55453,Q55453_SYNY3 Aminotransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=aspC PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73493,GSHB_SYNY3 Glutathione synthetase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gshB PE=3 SV=1,NA,NA,NA,NA,NA,0
+P27589,PETD_SYNY3 Cytochrome b6-f complex subunit 4 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=petD PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74326,P74326_SYNY3 Ssr1600 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssr1600 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73175,P73175_SYNY3 CheY subfamily OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1292 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73489,P73489_SYNY3 Ssl2245 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssl2245 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74109,P74109_SYNY3 Sll1891 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1891 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73628,Y1769_SYNY3 Probable thylakoid lumen protein sll1769 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1769 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P26533,ATPE_SYNY3 ATP synthase epsilon chain OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=atpC PE=1 SV=3,NA,NA,NA,NA,NA,0
+Q55778,SYE_SYNY3 Glutamate--tRNA ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gltX PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73886,P73886_SYNY3 Ribosome-binding ATPase YchF OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ychF PE=3 SV=1,NA,NA,NA,NA,NA,0
+P36265,NUSG_SYNY3 Transcription termination/antitermination protein NusG OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=nusG PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73626,P73626_SYNY3 Sll1771 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1771 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74342,FOLB_SYNY3 Probable dihydroneopterin aldolase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=folB PE=3 SV=2,NA,NA,NA,NA,NA,0
+P73480,P73480_SYNY3 Protochlorophillide reductase 57 kD subunit OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=bchB PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74447,P74447_SYNY3 Ferredoxin OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0148 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55483,Q55483_SYNY3 Diadenylate cyclase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=dacA PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72856,DPO3B_SYNY3 Beta sliding clamp OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=dnaN PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72720,GLMS_SYNY3 Glutamine--fructose-6-phosphate aminotransferase [isomerizing] OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=glmS PE=3 SV=3,NA,NA,NA,NA,NA,0
+P74558,P74558_SYNY3 NifU protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssl2667 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73882,Y46S_SYNY3 Uncharacterized protein ssl0461 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssl0461 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73960,LEU3_SYNY3 3-isopropylmalate dehydrogenase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=leuB PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73601,P73601_SYNY3 Sll1784 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1784 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74518,HPF_SYNY3 Ribosome hibernation promotion factor OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=hpf PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73681,P73681_SYNY3 Slr2144 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr2144 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55457,Q55457_SYNY3 Slr0038 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0038 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P72712,PSAK1_SYNY3 Photosystem I reaction center subunit PsaK 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psaK1 PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55894,THIC_SYNY3 Phosphomethylpyrimidine synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=thiC PE=3 SV=1,NA,NA,NA,NA,NA,0
+P55037,GLTB_SYNY3 Ferredoxin-dependent glutamate synthase 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gltB PE=1 SV=1,NA,NA,NA,NA,NA,0
+P74725,P74725_SYNY3 Sll0577 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0577 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73410,CYSK_SYNY3 Cysteine synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cysK PE=3 SV=2,NA,NA,NA,NA,NA,0
+P73056,YC64L_SYNY3 Uncharacterized monothiol glutaredoxin ycf64-like OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1846 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74155,YIDC_SYNY3 Membrane protein insertase YidC OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=yidC PE=1 SV=1,NA,NA,NA,NA,NA,0
+P74339,P74339_SYNY3 Slr1624 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1624 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73672,ISPG_SYNY3 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin) OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ispG PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74756,P74756_SYNY3 47 kD protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0609 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74214,SRP54_SYNY3 Signal recognition particle protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ffh PE=3 SV=1,NA,NA,NA,NA,NA,0
+P48576,LEU1_SYNY3 2-isopropylmalate synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=leuA PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74465,P74465_SYNY3 Pilin biogenesis protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pilC PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74470,P74470_SYNY3 Ssl0242 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssl0242 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73198,P73198_SYNY3 GumB protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gumB PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73790,PHS_SYNY3 Putative pterin-4-alpha-carbinolamine dehydratase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssl2296 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72661,P72661_SYNY3 Malic enzyme OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=me PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74727,P74727_SYNY3 Slr0589 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0589 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73424,P73424_SYNY3 Slr1540 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1540 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73243,P73243_SYNY3 CheY subfamily OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr2024 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P48958,RL33_SYNY3 50S ribosomal protein L33 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpmG PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74060,Y821_SYNY3 Putative sulfur carrier protein slr0821 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0821 PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55412,Q55412_SYNY3 Slr0583 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0583 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55791,Y075_SYNY3 Probable ATP-dependent transporter slr0075 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0075 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73655,SYW_SYNY3 Tryptophan--tRNA ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=trpS PE=3 SV=2,NA,NA,NA,NA,NA,0
+P73935,APT_SYNY3 Adenine phosphoribosyltransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=apt PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q46363,ZAM_SYNY3 Acetazolamide conferring resistance protein zam OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=zam PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72808,P72808_SYNY3 Prephenate dehydratase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pheA PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74184,P74184_SYNY3 Slr1272 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1272 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74682,P74682_SYNY3 Sll0446 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0446 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q6YRW7,ARSI2_SYNY3 Arsenate reductase ArsI2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=arsI2 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73879,Y264_SYNY3 Putative esterase slr0264 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0264 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P54148,Y537_SYNY3 Putative ammonium transporter sll0537 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0537 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73196,P73196_SYNY3 DNA ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=lig PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74124,P74124_SYNY3 Renin-binding protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1975 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74317,P74317_SYNY3 ABC transporter OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0912 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73328,P73328_SYNY3 Slr1900 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1900 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P72704,PPI1_SYNY3 Probable peptidyl-prolyl cis-trans isomerase sll0227 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0227 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72817,Y1654_SYNY3 Universal stress protein Sll1654 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1654 PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55650,Q55650_SYNY3 Slr0355 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0355 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55794,ARSA_SYNY3 Putative arsenical pump-driving ATPase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0086 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73801,Y1261_SYNY3 Uncharacterized protein slr1261 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1261 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55807,Q55807_SYNY3 Slr0086 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0086 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74708,P74708_SYNY3 Sll1109 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1109 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73244,P73244_SYNY3 Slr2025 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr2025 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q59992,TRPB_SYNY3 Tryptophan synthase beta chain OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=trpB PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55660,Q55660_SYNY3 Slr0001 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0001 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P72986,PSAM_SYNY3 Photosystem I reaction center subunit XII OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psaM PE=1 SV=1,NA,NA,NA,NA,NA,0
+P72834,P72834_SYNY3 UDP-glucose 6-dehydrogenase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1299 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72756,P72756_SYNY3 Sll1033 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1033 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73472,P73472_SYNY3 Chloroplast import-associated channel IAP75 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=IAP75 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73984,P73984_SYNY3 Slr2117 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr2117 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P72675,P72675_SYNY3 Slr0731 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0731 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74564,PSAK2_SYNY3 Photosystem I reaction center subunit PsaK 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psaK2 PE=1 SV=2,NA,NA,NA,NA,NA,0
+P74176,P74176_SYNY3 HlyB family OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=hlyB PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73954,Y1513_SYNY3 Membrane-associated protein slr1513 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1513 PE=1 SV=1,NA,NA,NA,NA,NA,0
+Q55584,Q55584_SYNY3 Cation or drug efflux system protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0369 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73211,ASPA_SYNY3 Probable aspartoacylase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1705 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74772,P74772_SYNY3 Ssl1046 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssl1046 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55484,DCDA_SYNY3 Diaminopimelate decarboxylase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=lysA PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72776,PDXJ_SYNY3 Pyridoxine 5'-phosphate synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pdxJ PE=3 SV=2,NA,NA,NA,NA,NA,0
+Q55862,Q55862_SYNY3 Sll0588 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0588 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55499,SSB1_SYNY3 Single-stranded DNA-binding protein 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssb PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q6ZES9,Q6ZES9_SYNY3 Uncharacterized protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr5051 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73720,OPCA_SYNY3 Putative OxPP cycle protein OpcA OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=opcA PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55160,Q55160_SYNY3 Biotin carboxylase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=accC PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73292,RL31_SYNY3 50S ribosomal protein L31 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpmE PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73008,P73008_SYNY3 Methyl-accepting chemotaxis protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=mcpA PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73213,P73213_SYNY3 Ssr2857 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssr2857 PE=1 SV=1,NA,NA,NA,NA,NA,0
+Q55450,GATC_SYNY3 Glutamyl-tRNA(Gln) amidotransferase subunit C OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gatC PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73735,NDBB_SYNY3 Demethylphylloquinone reductase NdbB OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ndbB PE=1 SV=1,NA,NA,NA,NA,NA,0
+P72710,P72710_SYNY3 ABC transporter OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0251 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55780,Q55780_SYNY3 Peptidylprolyl isomerase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0208 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55746,LPXA_SYNY3 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=lpxA PE=3 SV=2,NA,NA,NA,NA,NA,0
+P72753,UPP_SYNY3 Uracil phosphoribosyltransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=upp PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74069,NDHN_SYNY3 NAD(P)H-quinone oxidoreductase subunit N OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ndhN PE=1 SV=1,NA,NA,NA,NA,NA,0
+P73619,P73619_SYNY3 Sll1775 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1775 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P23353,AROC_SYNY3 Chorismate synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=aroC PE=3 SV=2,NA,NA,NA,NA,NA,0
+Q55497,OTC_SYNY3 Ornithine carbamoyltransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=argF PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73004,P73004_SYNY3 Long-chain-fatty-acid CoA ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1609 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74685,P74685_SYNY3 Sll0443 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0443 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P54147,Y108_SYNY3 Putative ammonium transporter sll0108 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0108 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72699,Y230_SYNY3 UPF0045 protein sll0230 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0230 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74027,P74027_SYNY3 Slr1334 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1334 PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55790,Y074_SYNY3 UPF0051 protein slr0074 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0074 PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55716,SYGA_SYNY3 Glycine--tRNA ligase alpha subunit OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=glyQ PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73873,P73873_SYNY3 Sll0253 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0253 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55653,SYH_SYNY3 Histidine--tRNA ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=hisS PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q57473,Q57473_SYNY3 Sll0318 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0318 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73602,Y1783_SYNY3 Uncharacterized protein sll1783 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1783 PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55984,Q55984_SYNY3 Sll0659 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0659 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55679,Q55679_SYNY3 Aspartate aminotransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=aspC PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q57208,Y014_SYNY3 Uncharacterized protein slr0014 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0014 PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55487,Y501_SYNY3 Uncharacterized glycosyltransferase sll0501 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0501 PE=1 SV=1,NA,NA,NA,NA,NA,0
+P73509,P73509_SYNY3 Sll1359 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1359 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55900,MIND_SYNY3 Septum site-determining protein MinD OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=minD PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q6ZEU6,Q6ZEU6_SYNY3 Sll5034 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll5034 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q6ZEK3,Q6ZEK3_SYNY3 Uncharacterized protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr5127 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73680,P73680_SYNY3 Sll2002 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll2002 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55187,SYFA_SYNY3 Phenylalanine--tRNA ligase alpha subunit OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pheS PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55786,METH_SYNY3 Methionine synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=metH PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55848,KPRS_SYNY3 Ribose-phosphate pyrophosphokinase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=prs PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73010,P73010_SYNY3 Sec-independent protein translocase protein TatA OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=tatA PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73445,P73445_SYNY3 Sll1456 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1456 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74440,P74440_SYNY3 Slr0408 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0408 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74454,P74454_SYNY3 Sll0147 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0147 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74500,P74500_SYNY3 Slr1940 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1940 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P48944,RS14_SYNY3 30S ribosomal protein S14 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsN PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55403,Y575_SYNY3 Thylakoid membrane protein slr0575 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0575 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73796,URE3_SYNY3 Urease subunit gamma OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ureA PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74395,NUSB_SYNY3 Transcription antitermination protein NusB OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=nusB PE=3 SV=2,NA,NA,NA,NA,NA,0
+P73129,P73129_SYNY3 Ssr1698 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssr1698 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74506,P74506_SYNY3 Slr1944 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1944 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55470,Y514_SYNY3 Uncharacterized protein sll0514 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0514 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q6ZEF5,Q6ZEF5_SYNY3 Uncharacterized protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll7043 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55887,Q55887_SYNY3 Slr0111 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0111 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73257,ARLY_SYNY3 Argininosuccinate lyase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=argH PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73068,RUBR_SYNY3 Rubredoxin OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rub PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73769,MUTS_SYNY3 DNA mismatch repair protein MutS OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=mutS PE=3 SV=2,NA,NA,NA,NA,NA,0
+P53383,APBC_SYNY3 Iron-sulfur cluster carrier protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=mrp PE=3 SV=1,NA,NA,NA,NA,NA,0
+P52276,SYN_SYNY3 Asparagine--tRNA ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=asnS PE=3 SV=2,NA,NA,NA,NA,NA,0
+P72807,P72807_SYNY3 Sll1663 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1663 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73145,SSB2_SYNY3 Thylakoid-associated single-stranded DNA-binding protein slr1034 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1034 PE=1 SV=1,NA,NA,NA,NA,NA,0
+P74154,P74154_SYNY3 Slr1470 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1470 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73826,PHAB_SYNY3 Acetoacetyl-CoA reductase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=phaB PE=1 SV=1,NA,NA,NA,NA,NA,0
+Q6YRT3,Q6YRT3_SYNY3 Slr6012 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr6012 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P49995,DNAA_SYNY3 Chromosomal replication initiator protein DnaA OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=dnaA PE=3 SV=2,NA,NA,NA,NA,NA,0
+Q55954,Q55954_SYNY3 Sll0780 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0780 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55527,Q55527_SYNY3 CheA like protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0322 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55712,Q55712_SYNY3 Slr0635 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0635 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72942,EXBD_SYNY3 Putative biopolymer transport protein ExbD OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0678 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73689,SPPA_SYNY3 Protease 4 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sppA PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55752,RLPA_SYNY3 Probable endolytic peptidoglycan transglycosylase RlpA OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rlpA PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55549,Q55549_SYNY3 Slr0168 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0168 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P58236,Y761_SYNY3 Uncharacterized protein ssr0761 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssr0761 PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55551,Q55551_SYNY3 Ycf37 gene product OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ycf37 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55582,Q55582_SYNY3 Slr0364 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0364 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73560,GCSH_SYNY3 Glycine cleavage system H protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gcvH PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73867,KDPB_SYNY3 Potassium-transporting ATPase ATP-binding subunit OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=kdpB PE=3 SV=1,NA,NA,NA,NA,NA,0
+P37979,ICFG_SYNY3 Protein IcfG OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=icfG PE=4 SV=2,NA,NA,NA,NA,NA,0
+P74182,P74182_SYNY3 Slr1270 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1270 PE=1 SV=1,NA,NA,NA,NA,NA,0
+Q55906,Q55906_SYNY3 Slr0302 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0302 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55787,RSMG_SYNY3 Ribosomal RNA small subunit methyltransferase G OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rsmG PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72896,P72896_SYNY3 Slr1618 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1618 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55141,ILVH_SYNY3 Acetolactate synthase small subunit OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ilvH PE=3 SV=2,NA,NA,NA,NA,NA,0
+P73934,P73934_SYNY3 Slr2105 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr2105 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74582,ACNB_SYNY3 Aconitate hydratase B OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=acnB PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55875,Q55875_SYNY3 Sll0102 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0102 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74705,P74705_SYNY3 Slr1178 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1178 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q6ZEL9,Q6ZEL9_SYNY3 Uncharacterized protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr5111 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73035,P73035_SYNY3 Hybrid sensory kinase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1759 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73040,P73040_SYNY3 Slr1763 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1763 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q59987,POR_SYNY3 Light-dependent protochlorophyllide reductase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=por PE=3 SV=2,NA,NA,NA,NA,NA,0
+P73668,MURD_SYNY3 UDP-N-acetylmuramoylalanine--D-glutamate ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=murD PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55150,Q55150_SYNY3 Slr0059 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0059 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P72780,HHOA_SYNY3 Putative serine protease HhoA OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=hhoA PE=1 SV=1,NA,NA,NA,NA,NA,0
+P73058,HISX1_SYNY3 Histidinol dehydrogenase 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=hisD1 PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q6ZE43,Q6ZE43_SYNY3 Type I site-specific deoxyribonuclease chain R OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll8049 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P72794,CYSH_SYNY3 Phosphoadenosine phosphosulfate reductase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cysH PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74503,KACL2_SYNY3 KaiC-like protein 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1942 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72939,P72939_SYNY3 Alkaline phosphatase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0654 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55729,SYM_SYNY3 Methionine--tRNA ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=metG PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74686,P74686_SYNY3 Antiviral protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ski2 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q6ZEI8,Q6ZEI8_SYNY3 Uncharacterized protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr7010 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q6ZED8,Q6ZED8_SYNY3 Slr7060 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr7060 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55843,PURQ_SYNY3 Phosphoribosylformylglycinamidine synthase subunit PurQ OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=purQ PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73155,P73155_SYNY3 Slr1039 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1039 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73170,P73170_SYNY3 Phenoxybenzoate dioxygenase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pobA PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74303,P74303_SYNY3 Slr0938 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0938 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73050,P73050_SYNY3 Ferripyochelin binding protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=fbp PE=4 SV=1,NA,NA,NA,NA,NA,0
+P72595,P72595_SYNY3 Regulatory protein PchR OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pchR PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73845,P73845_SYNY3 Sll1608 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1608 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74605,P74605_SYNY3 Slr1572 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1572 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74232,PUR2_SYNY3 Phosphoribosylamine--glycine ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=purD PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74577,P74577_SYNY3 Sll0623 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0623 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55847,Q55847_SYNY3 Sll0470 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0470 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55804,CRHR_SYNY3 RNA helicase CrhR OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=crhR PE=1 SV=1,NA,NA,NA,NA,NA,0
+P74747,P74747_SYNY3 Slr0601 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0601 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73365,P73365_SYNY3 PatA subfamily OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1214 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73385,P73385_SYNY3 Sll1739 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1739 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P72810,P72810_SYNY3 Sll1660 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1660 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73661,P73661_SYNY3 Slr1888 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1888 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74698,P74698_SYNY3 Slr0459 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0459 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q6ZEW5,Q6ZEW5_SYNY3 Uncharacterized protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssl5015 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73264,P73264_SYNY3 3-amino-5-hydroxybenzoic acid synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1140 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74162,P74162_SYNY3 Sll1380 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1380 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73288,P73288_SYNY3 Aklaviketone reductase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1825 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73862,P73862_SYNY3 Rubisco operon transcriptional regulator OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rbcR PE=1 SV=1,NA,NA,NA,NA,NA,0
+Q55422,PUR5_SYNY3 Phosphoribosylformylglycinamidine cyclo-ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=purM PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72985,P72985_SYNY3 Slr1600 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1600 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P77960,TRPA_SYNY3 Tryptophan synthase alpha chain OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=trpA PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74473,P74473_SYNY3 Slr1923 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1923 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P26525,NDHI_SYNY3 NAD(P)H-quinone oxidoreductase subunit I OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ndhI PE=1 SV=1,NA,NA,NA,NA,NA,0
+P74645,KAIB_SYNY3 Circadian clock protein KaiB OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=kaiB PE=1 SV=1,NA,NA,NA,NA,NA,0
+P73413,P73413_SYNY3 Sll1717 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1717 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74208,PYRG_SYNY3 CTP synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pyrG PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55507,Q55507_SYNY3 Ammonium transport protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cysQ PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74528,MURC_SYNY3 UDP-N-acetylmuramate--L-alanine ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=murC PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73473,RF3_SYNY3 Peptide chain release factor 3 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=prfC PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73393,P73393_SYNY3 Sll1734 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1734 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73618,DEOC_SYNY3 Deoxyribose-phosphate aldolase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=deoC PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55690,SYGB_SYNY3 Glycine--tRNA ligase beta subunit OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=glyS PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72964,P72964_SYNY3 Ycf45 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ycf45 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73921,P73921_SYNY3 Sll1979 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1979 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74186,P74186_SYNY3 Membrane protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pilM PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74021,P74021_SYNY3 Hydrogenase small subunit OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=hoxY PE=4 SV=1,NA,NA,NA,NA,NA,0
+P55175,NIT1_SYNY3 Deaminated glutathione amidase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0601 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73096,P73096_SYNY3 Slr2053 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr2053 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P26522,NU1C_SYNY3 NAD(P)H-quinone oxidoreductase subunit 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ndhA PE=3 SV=2,NA,NA,NA,NA,NA,0
+Q55513,DAPA_SYNY3 4-hydroxy-tetrahydrodipicolinate synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=dapA PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q6YRP4,Q6YRP4_SYNY3 Slr6110 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr6110 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55929,Q55929_SYNY3 Pre-B cell enhancing factor OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0788 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73982,P73982_SYNY3 Slr2115 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr2115 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P74129,P74129_SYNY3 Slr1978 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1978 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P0DJF8,MTAP_SYNY3 S-methyl-5'-thioadenosine phosphorylase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=mtnP PE=3 SV=1,NA,NA,NA,NA,NA,0
+P33779,NTCA_SYNY3 Global nitrogen regulator OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ntcA PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55709,SECA_SYNY3 Protein translocase subunit SecA OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=secA PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73861,P73861_SYNY3 Slr1726 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1726 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P72886,"P72886_SYNY3 CDP-glucose-4,6-dehydratase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rfbG PE=4 SV=1",NA,NA,NA,NA,NA,0
+P72839,P72839_SYNY3 Slr1301 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1301 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q6ZEQ5,Q6ZEQ5_SYNY3 Sll5075 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll5075 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55624,Y755_SYNY3 Putative peroxiredoxin sll0755 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0755 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72764,P72764_SYNY3 Slr1110 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1110 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73627,Y1770_SYNY3 Uncharacterized protein sll1770 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1770 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73548,CDSA_SYNY3 Phosphatidate cytidylyltransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cdsA PE=3 SV=1,NA,NA,NA,NA,NA,0
+P54902,PROA1_SYNY3 Gamma-glutamyl phosphate reductase 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=proA1 PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72845,P72845_SYNY3 Sll1188 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1188 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73200,P73200_SYNY3 Slr1702 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1702 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55870,Q55870_SYNY3 Slr0626 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0626 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73617,TRPD_SYNY3 Anthranilate phosphoribosyltransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=trpD PE=3 SV=1,NA,NA,NA,NA,NA,0
+P74701,P74701_SYNY3 Transposase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0462 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P73441,DEF_SYNY3 Peptide deformylase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=def PE=3 SV=1,NA,NA,NA,NA,NA,0
+P72893,P72893_SYNY3 Perosamine synthetase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rfbE PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73526,QUEG_SYNY3 Epoxyqueuosine reductase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=queG PE=3 SV=1,NA,NA,NA,NA,NA,0
+P73616,P73616_SYNY3 Slr1866 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1866 PE=4 SV=1,NA,NA,NA,NA,NA,0
+P72775,P72775_SYNY3 Alanine dehydrogenase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1682 PE=3 SV=1,NA,NA,NA,NA,NA,0
+Q55730,Q55730_SYNY3 Slr0650 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0650 PE=4 SV=1,NA,NA,NA,NA,NA,0
+Q55196,PSTB1_SYNY3 Phosphate import ATP-binding protein PstB 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pstB1 PE=3 SV=1,4.686748869020107,4.537200860674892,4.344436988624734,4.537200860674892,0.17160999418623923,3
+P73785,P73785_SYNY3 Phosphate-binding protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pstS PE=3 SV=1,3.4990119055688513,4.986411874201288,4.368206081444318,4.368206081444318,0.7472210275705858,3
+Q55195,PSTB2_SYNY3 Phosphate import ATP-binding protein PstB 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pstB2 PE=3 SV=1,3.850307067242151,4.453039236732772,4.267423877533187,4.267423877533187,0.30868688643376413,3
+Q55199,Q55199_SYNY3 Phosphate-binding protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pstS PE=3 SV=1,3.0325922784696857,3.4113373304362526,3.593804377472963,3.4113373304362526,0.28626941206700113,3
+Q55200,SPHX_SYNY3 Protein SphX OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sphX PE=3 SV=1,3.1844245711374275,3.5695309865258427,3.309126079791783,3.309126079791783,0.1964977238566905,3
+P74614,P74614_SYNY3 NADH dehydrogenase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ndh PE=4 SV=1,2.6776016360480934,2.4335808383361455,2.537708224881038,2.537708224881038,0.12244647050350868,3
+P74554,P74554_SYNY3 Sll1365 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1365 PE=4 SV=1,6.35866864170238,1.6603593015248148,2.524955191356879,2.524955191356879,2.5006331041049794,3
+P73736,P73736_SYNY3 N-acetylmuramoyl-L-alanine amidase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=amiA PE=4 SV=1,2.6391590660639035,1.9632008180445621,2.4401900793754447,2.4401900793754447,0.34737754824642514,3
+Q6ZER7,Q6ZER7_SYNY3 Uncharacterized protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll5063 PE=4 SV=1,2.3979809357889836,1.948705018575043,2.140176060070533,2.140176060070533,0.22545264227918654,3
+P74285,CUGP_SYNY3 UTP--glucose-1-phosphate uridylyltransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cugP PE=1 SV=1,1.5960378963166055,1.3892636714973716,1.8116595614346545,1.5960378963166055,0.2112133874993849,3
+Q6ZEQ9,Q6ZEQ9_SYNY3 Uncharacterized protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr5071 PE=4 SV=1,5.15446681937393,0.5695704503041742,1.4242091451770942,1.4242091451770942,2.438117591154684,3
+Q55610,SECD_SYNY3 Protein translocase subunit SecD OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=secD PE=3 SV=1,1.1757377422374105,1.3718651764360756,1.7337443926250657,1.3718651764360756,0.2830765383636745,3
+Q55155,Q55155_SYNY3 General secretion pathway protein E OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gspE PE=4 SV=1,1.2024189479400698,1.2657599306459677,1.307405719570399,1.2657599306459677,0.05286566945672469,3
+P73537,P73537_SYNY3 Slr1363 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1363 PE=4 SV=1,1.2610964645917127,0.8424822447678497,1.3601897867462691,1.2610964645917127,0.27479642481775013,3
+P73770,P73770_SYNY3 Slr1243 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1243 PE=4 SV=1,1.234216405850138,0.7695396772673876,1.2257299399623094,1.2257299399623094,0.26586526599241245,3
+Q57310,LPXB_SYNY3 Lipid-A-disaccharide synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=lpxB PE=3 SV=1,NA,0.9528992509277018,1.4817198741938846,1.2173095625607933,0.3739326487428144,2
+P72623,GLGA2_SYNY3 Probable glycogen synthase 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=glgA2 PE=3 SV=1,1.8649625619977204,NA,0.5428408557511615,1.203901708874441,0.9348812240408703,2
+P29254,PSAA_SYNY3 Photosystem I P700 chlorophyll a apoprotein A1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psaA PE=1 SV=1,1.4577494554940706,1.1901611948336144,1.025314569234791,1.1901611948336144,0.2182421507059983,3
+P74667,DAPF_SYNY3 Diaminopimelate epimerase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=dapF PE=3 SV=1,1.1599298454805824,0.9758942588868854,1.324555302872686,1.1599298454805824,0.17442054635645837,3
+P73016,FABI_SYNY3 Enoyl-[acyl-carrier-protein] reductase [NADH] FabI OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=fabI PE=3 SV=2,1.1577154138682488,0.8770684313949868,1.3416569936918619,1.1577154138682488,0.23396572604280913,3
+P73437,FTSH4_SYNY3 ATP-dependent zinc metalloprotease FtsH 4 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ftsH4 PE=2 SV=1,1.2891009812197576,0.8063188753050797,1.1437258624110758,1.1437258624110758,0.2476745047799615,3
+Q55766,RPIA_SYNY3 Ribose-5-phosphate isomerase A OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpiA PE=3 SV=1,1.2650721736022204,1.1301339134844595,0.7350492400554924,1.1301339134844595,0.27544646887903046,3
+P73098,DNAK3_SYNY3 Chaperone protein dnaK3 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=dnaK3 PE=3 SV=2,1.4647793773177806,0.9351372835857433,1.1253501692562904,1.1253501692562904,0.2683014090574329,3
+Q6YRU7,Q6YRU7_SYNY3 Slr6057 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr6057 PE=4 SV=1,1.1403686385827616,0.938019031962456,1.092237032145047,1.092237032145047,0.10570809368096744,3
+P73103,P73103_SYNY3 Slr1908 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1908 PE=3 SV=1,1.4718273147315462,1.055924319571631,0.9651678504832178,1.055924319571631,0.2701591662880695,3
+P73407,CCMK4_SYNY3 Carbon dioxide-concentrating mechanism protein CcmK homolog 4 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ccmK4 PE=1 SV=3,1.4141831894331987,0.9762221319621145,-0.28429374828435333,0.9762221319621145,0.8818100778297928,3
+P72890,P72890_SYNY3 Slr1612 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1612 PE=4 SV=1,-1.4358424394735845,0.99300085933029,0.9507292065420431,0.9507292065420431,1.3902512293550686,3
+Q55564,Q55564_SYNY3 Sll0162 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0162 PE=4 SV=1,0.754358070061074,1.1202675193690752,0.937071296573958,0.937071296573958,0.18295477778312352,3
+P74690,PHK_SYNY3 Probable phosphoketolase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0453 PE=3 SV=2,1.503714970649843,0.7284035806627824,0.8798559220336157,0.8798559220336157,0.4109431582126488,3
+P73597,P73597_SYNY3 Sll1306 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1306 PE=4 SV=1,0.6313640570382891,0.9527626253860717,0.7844256208469513,0.7844256208469513,0.16075977375614464,3
+P72827,FUTA1_SYNY3 Iron uptake protein A1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=futA1 PE=1 SV=1,0.7611500658029261,1.0410390576008877,0.7661035300370558,0.7661035300370558,0.16018319140617385,3
+P74416,GCSP_SYNY3 Glycine dehydrogenase (decarboxylating) OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gcvP PE=1 SV=1,0.944549329988575,0.7516238175927956,0.13306652230829435,0.7516238175927956,0.42393744193444455,3
+P73711,P73711_SYNY3 Threonine synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=thrC PE=4 SV=1,0.17889336535012906,0.7961498127102414,0.7452686437080575,0.7452686437080575,0.3426308438883059,3
+Q55367,CYNS_SYNY3 Cyanate hydratase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cynS PE=1 SV=1,1.069560895341181,0.4958726527063819,0.7384071445665172,0.7384071445665172,0.2879826343524286,3
+P74569,P74569_SYNY3 Aspartate kinase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=lysC PE=1 SV=1,1.0178717755021096,0.4211156697417178,0.7366174954696474,0.7366174954696474,0.29854179546492954,3
+P74510,P74510_SYNY3 Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=odhB PE=3 SV=1,1.4255739932405729,0.7350415729329767,0.3826305877162453,0.7350415729329767,0.5305279560846246,3
+Q55469,"MURE_SYNY3 UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=murE PE=3 SV=1",0.6331749430065418,0.7271167972654277,1.0074345019814186,0.7271167972654277,0.1947105993703251,3
+Q55835,FUTA2_SYNY3 Iron uptake protein A2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=futA2 PE=1 SV=1,0.22180964700312336,0.7250276635421861,0.8116255426419766,0.7250276635421861,0.31848871135995627,3
+P73173,P73173_SYNY3 PilJ protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pilJ PE=4 SV=1,-0.31371767858769634,1.1454658248454694,0.7177224406280347,0.7177224406280347,0.750116615262924,3
+P37277,PSAL_SYNY3 Photosystem I reaction center subunit XI OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psaL PE=1 SV=1,-0.6131040337997721,0.8710402176834845,0.7123621035071328,0.7123621035071328,0.814935926343972,3
+P29255,PSAB_SYNY3 Photosystem I P700 chlorophyll a apoprotein A2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psaB PE=1 SV=4,0.5825058840385616,1.009034519017383,0.6973428220326131,0.6973428220326131,0.2207056534368768,3
+P19569,PSAD_SYNY3 Photosystem I reaction center subunit II OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psaD PE=1 SV=2,0.06507925659372434,0.7737978561846968,0.6803299737094004,0.6803299737094004,0.385043664920391,3
+P74737,RECA_SYNY3 Protein RecA OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=recA PE=2 SV=1,0.6695081038287409,-0.15169801135971991,0.7472266263326524,0.6695081038287409,0.49807716213010567,3
+P73596,P73596_SYNY3 Sll1307 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1307 PE=4 SV=1,0.8486243016685076,-0.6011174210968339,0.6653080953209543,0.6653080953209543,0.7894290640361911,3
+P73636,RS6_SYNY3 30S ribosomal protein S6 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsF PE=3 SV=1,1.1405310143893883,-0.5872024362703535,0.6628844105579874,0.6628844105579874,0.8921814351439877,3
+P73505,SYI_SYNY3 Isoleucine--tRNA ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ileS PE=3 SV=1,1.036765029782958,-0.18104331051385272,0.6592574196220163,0.6592574196220163,0.6233878496426835,3
+Q6YRS9,Q6YRS9_SYNY3 Slr6016 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr6016 PE=4 SV=1,0.33760175021587113,0.6268636561829112,0.9765689059695608,0.6268636561829112,0.3199596948846286,3
+P73412,UVRA_SYNY3 UvrABC system protein A OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=uvrA PE=3 SV=1,1.1364253760115894,-0.07603451011359866,0.6223097900253002,0.6223097900253002,0.6085582104111897,3
+P74668,P74668_SYNY3 Pleiotropic regulatory protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=degT PE=3 SV=1,2.248647856938597,0.3944501551702679,0.608092748389638,0.608092748389638,1.0144878296515392,3
+P29256,PSAF_SYNY3 Photosystem I reaction center subunit III OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psaF PE=1 SV=1,0.5550841187077694,0.5858245226329989,0.5888628425504043,0.5858245226329989,0.018686920585638495,3
+P72688,P72688_SYNY3 Transcription termination/antitermination protein NusA OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=nusA PE=3 SV=1,0.584418069364148,0.9462761638156434,-0.9939610032697095,0.584418069364148,1.0317252575167462,3
+Q55898,PPK1_SYNY3 Polyphosphate kinase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ppk PE=3 SV=1,1.0398456389587176,0.5787335366825025,0.10663153052278836,0.5787335366825025,0.46661783921989863,3
+Q55727,Q55727_SYNY3 Slr0645 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0645 PE=4 SV=1,0.2155621416493087,1.0302744564921866,0.5764438708812472,0.5764438708812472,0.4082388963352306,3
+P72929,Y1021_SYNY3 Uncharacterized protein sll1021 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1021 PE=4 SV=1,0.6874745130217829,0.5744877071315191,0.21653130305994267,0.5744877071315191,0.24586117781189054,3
+P54123,RNJ_SYNY3 Ribonuclease J OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rnj PE=3 SV=1,0.6778581883444682,-0.2322084940316512,0.5610445233617183,0.5610445233617183,0.4951627928101801,3
+P73411,G6PD_SYNY3 Glucose-6-phosphate 1-dehydrogenase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=zwf PE=3 SV=1,0.08381097100626896,0.9916662574169568,0.5410477085859685,0.5410477085859685,0.4539316636908587,3
+P32422,PSAC_SYNY3 Photosystem I iron-sulfur center OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psaC PE=1 SV=2,0.5913693918292563,0.4324513814202097,0.5366787502958461,0.5366787502958461,0.08073551957517831,3
+Q55662,Q55662_SYNY3 ATP-dependent Clp protease regulatory subunit OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=clpC PE=3 SV=1,0.8115076769922956,0.5360762450090333,0.3636979779965223,0.5360762450090333,0.2258724814201116,3
+P49433,G3P1_SYNY3 Glyceraldehyde-3-phosphate dehydrogenase 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gap1 PE=3 SV=1,0.6277086761615656,-0.14851076129906812,0.5333024671516319,0.5333024671516319,0.4235363868433062,3
+P72758,P72758_SYNY3 Carbon dioxide concentrating mechanism protein CcmM OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ccmM PE=1 SV=1,0.514086406236526,0.6882965188391433,0.5332699627976993,0.5332699627976993,0.09552521940428708,3
+P74702,P74702_SYNY3 Chaperone protein HtpG OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=htpG PE=4 SV=1,0.605650742118126,0.12472396357171353,0.5304011231361931,0.5304011231361931,0.25869126685177585,3
+P73566,P73566_SYNY3 Slr0882 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0882 PE=4 SV=1,0.44142600242193036,0.5264937169448264,0.5264937169448264,0.5264937169448264,0.04911386787914025,3
+Q55598,Q55598_SYNY3 Slr0384 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0384 PE=4 SV=1,0.6509219232902925,0.135887899141845,0.5198090347827207,0.5198090347827207,0.26765838736317193,3
+Q55445,Y041_SYNY3 Putative methyl-accepting chemotaxis protein sll0041 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0041 PE=3 SV=2,0.5170627248554562,0.5210370938727538,-0.02912455251846682,0.5170627248554562,0.3164949116847755,3
+P73450,NRTC_SYNY3 Nitrate transport ATP-binding protein NrtC OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=nrtC PE=3 SV=1,0.9617868508624892,0.2318875322477328,0.5113733468687223,0.5113733468687223,0.3682702043492403,3
+Q55753,Q55753_SYNY3 High-affinity branched-chain amino acid transport ATP-binding protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=braG or livF PE=4 SV=1,1.166469618899142,0.5059560851708089,0.2785909918164269,0.5059560851708089,0.46121243665376577,3
+P74135,P74135_SYNY3 Sll1873 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1873 PE=4 SV=1,0.2519901609958943,0.5990257150907876,0.4938434783987312,0.4938434783987312,0.17794662395423097,3
+P73020,P73020_SYNY3 Mg-chelatase subunit ChlH OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=chlH PE=1 SV=1,0.5526909417054481,-0.20074010287946298,0.49350134555600267,0.49350134555600267,0.4189536442062967,3
+P74625,P74625_SYNY3 Phycobilisome rod-core linker polypeptide CpcG OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cpcG PE=3 SV=1,0.4835188062643527,0.545437061650602,0.40814998003457986,0.4835188062643527,0.06875327034158103,3
+P73307,RS8_SYNY3 30S ribosomal protein S8 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsH PE=3 SV=1,0.541072262283206,0.08417836644780838,0.47878798402886336,0.47878798402886336,0.24777278356617316,3
+P73409,P73409_SYNY3 Slr1841 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1841 PE=3 SV=1,0.5748813459410771,0.4633573218510973,0.47754322809440863,0.47754322809440863,0.0607090837122671,3
+Q55466,Q55466_SYNY3 Sll0518 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0518 PE=4 SV=1,0.5018036609518602,-0.2673533694420423,0.47515213257584754,0.47515213257584754,0.43658280274116434,3
+P74367,PSB27_SYNY3 Photosystem II lipoprotein Psb27 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psb27 PE=1 SV=2,0.2623206207287562,0.6259844795751728,0.4588073557339508,0.4588073557339508,0.1820286744810145,3
+Q6YRV3,Q6YRV3_SYNY3 Slr6051 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr6051 PE=4 SV=1,-0.11479038330037501,0.9100578746872016,0.451048035044544,0.451048035044544,0.5133512605848014,3
+P27183,ATPX_SYNY3 ATP synthase subunit b' OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=atpG PE=3 SV=1,0.5887758926164698,0.42276594117754074,0.4496585155669278,0.4496585155669278,0.08910308555374595,3
+P73875,P73875_SYNY3 Ssl0467 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssl0467 PE=4 SV=1,0.21498150505398758,0.44776804422767613,0.49590691371610446,0.44776804422767613,0.1502364851426268,3
+P16033,PSBA2_SYNY3 Photosystem II protein D1 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psbA2 PE=1 SV=1,0.22003597440178185,0.4368473634749299,0.48892819877421545,0.4368473634749299,0.1426082163161565,3
+P73317,RL2_SYNY3 50S ribosomal protein L2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplB PE=3 SV=1,0.4708554691019679,0.42534817292406935,0.4050534107062217,0.42534817292406935,0.033696444589944384,3
+P74102,OCP_SYNY3 Orange carotenoid-binding protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1963 PE=1 SV=1,0.11814532332055,0.41941950201258915,0.48695980583874837,0.41941950201258915,0.19636358534729198,3
+P73456,FTSZ_SYNY3 Cell division protein FtsZ OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ftsZ PE=1 SV=1,0.40377984887564955,0.5306555429999205,0.35451230395895356,0.40377984887564955,0.0908764485455181,3
+P73534,KPYK2_SYNY3 Pyruvate kinase 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pyk2 PE=3 SV=1,0.4001371142784801,0.45735586465887684,0.34399403624094627,0.4001371142784801,0.056681764776217905,3
+P74314,P74314_SYNY3 OmpR subfamily OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0947 PE=4 SV=1,0.161380114876003,0.39471428649437695,0.6907115243560018,0.39471428649437695,0.2652831636599611,3
+Q01950,"PYC1_SYNY3 Phycobilisome 7.8 kDa linker polypeptide, allophycocyanin-associated, core OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=apcC PE=3 SV=1",0.07466744955703476,0.38727595906558415,0.3985647102539089,0.38727595906558415,0.18383006265184504,3
+Q55374,Q55374_SYNY3 Slr0907 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0907 PE=4 SV=1,0.38554443352453743,0.32576799692439273,0.4420441041222781,0.38554443352453743,0.05814574827586102,3
+P09190,PSBE_SYNY3 Cytochrome b559 subunit alpha OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psbE PE=1 SV=3,0.38335481920111647,0.4319030985529326,0.38094430061043594,0.38335481920111647,0.02875049308458955,3
+P73704,P73704_SYNY3 General secretion pathway protein G OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=hofG PE=4 SV=1,0.3515762611433468,0.46311276308146687,0.3830626715539404,0.3830626715539404,0.0575033367998498,3
+P73304,RS5_SYNY3 30S ribosomal protein S5 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsE PE=3 SV=1,0.288898809238152,0.3802777030410567,0.4060199033529295,0.3802777030410567,0.06154959219494179,3
+P73558,GATA_SYNY3 Glutamyl-tRNA(Gln) amidotransferase subunit A OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gatA PE=3 SV=1,0.35913303822474163,0.42847642216367465,0.3707106798216563,0.3707106798216563,0.03714706733461234,3
+P73471,PUR7_SYNY3 Phosphoribosylaminoimidazole-succinocarboxamide synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=purC PE=3 SV=1,0.4284313160184685,0.3614304816530077,0.30937864437470547,0.3614304816530077,0.059682554954291804,3
+P73574,FABG_SYNY3 3-oxoacyl-[acyl-carrier-protein] reductase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=fabG PE=1 SV=1,0.3557903282617279,0.38665129196648823,0.30418913177451523,0.3557903282617279,0.04166351406051639,3
+Q55738,GYRA_SYNY3 DNA gyrase subunit A OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gyrA PE=3 SV=1,0.3494262915380969,0.6004565301393393,-0.24967815523315473,0.3494262915380969,0.43678203986784103,3
+Q55087,CHLP_SYNY3 Geranylgeranyl diphosphate reductase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=chlP PE=3 SV=1,0.2599632875239743,0.4173742142423915,0.34794485725339624,0.34794485725339624,0.07888746422838591,3
+Q55700,FTSH2_SYNY3 ATP-dependent zinc metalloprotease FtsH 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ftsH2 PE=1 SV=1,0.004091553882783881,0.4696579586921826,0.3472772693306649,0.3472772693306649,0.24135228253296157,3
+P73293,RS9_SYNY3 30S ribosomal protein S9 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsI PE=3 SV=1,0.3686576692444874,0.06157342159614563,0.34435176272835427,0.34435176272835427,0.17071179536419592,3
+P27181,ATPF_SYNY3 ATP synthase subunit b OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=atpF PE=3 SV=2,-0.10416300967085003,0.3363659172717664,0.3915380367133443,0.3363659172717664,0.2716705190800288,3
+P72866,RS15_SYNY3 30S ribosomal protein S15 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsO PE=3 SV=1,0.5113180129578895,-0.19172892567891936,0.33164973735218195,0.33164973735218195,0.36525810785022067,3
+P73316,RS19_SYNY3 30S ribosomal protein S19 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsS PE=3 SV=1,0.33052049863159766,0.07802541995852348,0.6507861830708846,0.33052049863159766,0.2870478372282633,3
+P72851,RL28_SYNY3 50S ribosomal protein L28 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpmB PE=3 SV=1,0.3304859903641438,0.10172495117162884,0.3353972973740797,0.3304859903641438,0.13351560418714065,3
+P72849,HO1_SYNY3 Heme oxygenase 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pbsA1 PE=1 SV=1,0.3297433834727449,0.39700532832428176,0.1602985109444719,0.3297433834727449,0.12197393946072566,3
+Q55131,Q55131_SYNY3 Slr0049 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0049 PE=4 SV=1,0.3291297891922247,0.42619720715238935,0.30380700902889385,0.3291297891922247,0.06460480815615595,3
+P74729,P74729_SYNY3 HrEpiB OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0576 PE=4 SV=1,-0.3527365220617659,0.33502076266715997,0.32449009517499033,0.32449009517499033,0.39407208916421105,3
+P48949,RS21_SYNY3 30S ribosomal protein S21 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsU PE=3 SV=1,-0.34690031073929145,0.6964922847740891,0.32137695207026734,0.32137695207026734,0.5285158656069976,3
+P72871,METK_SYNY3 S-adenosylmethionine synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=metK PE=3 SV=2,0.30703003255753547,0.30703003255753547,0.4879005405615701,0.30703003255753547,0.10442563648459366,3
+P73654,P73654_SYNY3 Ssl3364 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssl3364 PE=4 SV=1,-0.3163693998107053,0.30070393361853814,0.39958517529572746,0.30070393361853814,0.3879750748868913,3
+P74226,RS10_SYNY3 30S ribosomal protein S10 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsJ PE=3 SV=1,0.07102168195535007,0.29932437391285216,0.385190353384604,0.29932437391285216,0.16237664019869966,3
+Q55318,FENR_SYNY3 Ferredoxin--NADP reductase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=petH PE=1 SV=2,-0.11701559999360894,0.34284040312708075,0.2985220535772573,0.2985220535772573,0.25367406950919563,3
+P54384,LEUC_SYNY3 3-isopropylmalate dehydratase large subunit OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=leuC PE=3 SV=2,0.49986172667053747,-0.08980359209840809,0.2961989834984053,0.2961989834984053,0.29949448784094335,3
+Q55176,Q55176_SYNY3 Slr0483 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0483 PE=4 SV=1,0.4009229698059436,0.2882291690960603,0.2926042900863736,0.2926042900863736,0.06383829934335333,3
+Q55233,DRGA_SYNY3 Protein DrgA OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=drgA PE=1 SV=1,-0.4015465678715759,0.4738943891118899,0.290493155413114,0.290493155413114,0.46169106920290137,3
+P74177,RPOC1_SYNY3 DNA-directed RNA polymerase subunit gamma OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpoC1 PE=3 SV=1,0.2891839469134352,0.8682069783938139,0.28799800764329214,0.2891839469134352,0.33464197962799486,3
+P74720,P74720_SYNY3 Sll1106 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1106 PE=4 SV=1,0.28612203435791966,0.3601226158016964,-0.0498781948235483,0.28612203435791966,0.21850740062881693,3
+P73821,SERA_SYNY3 D-3-phosphoglycerate dehydrogenase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=serA PE=3 SV=1,0.2897394360095076,0.23979734780046738,0.27650912615698836,0.27650912615698836,0.02587472364931827,3
+P73853,P73853_SYNY3 IMP dehydrogenase subunit OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=guaB PE=4 SV=1,0.2750058877776343,0.36164986889385925,0.21461344534225982,0.2750058877776343,0.07390775378563032,3
+Q55171,Q55171_SYNY3 Slr0476 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0476 PE=4 SV=1,-0.6479038581396895,0.7247550388686028,0.26576319924427916,0.26576319924427916,0.6987671820339999,3
+P73298,RS11_SYNY3 30S ribosomal protein S11 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsK PE=3 SV=1,0.8328177656212263,0.2639492410203706,0.14732838894610537,0.2639492410203706,0.36676684395642234,3
+P09193,PSBC_SYNY3 Photosystem II CP43 reaction center protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psbC PE=1 SV=3,-0.09978926287868209,0.2627977238480463,0.33098743417482857,0.2627977238480463,0.23154831110819737,3
+P74384,PUR8_SYNY3 Adenylosuccinate lyase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=purB PE=3 SV=1,0.07858935292458238,0.2577301665172308,0.6276932361898285,0.2577301665172308,0.280023564077853,3
+P73299,RS13_SYNY3 30S ribosomal protein S13 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsM PE=3 SV=1,0.23396988339762753,0.2471452721453604,0.3215035022397041,0.2471452721453604,0.04719617159439838,3
+Q55665,"GSA_SYNY3 Glutamate-1-semialdehyde 2,1-aminomutase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=hemL PE=3 SV=2",-0.16292161370454997,0.24642822527919778,0.39974584732625346,0.24642822527919778,0.2908803464224407,3
+P72797,TAL_SYNY3 Transaldolase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=tal PE=3 SV=1,-0.3103520795885913,0.27899073401468283,0.23012361634534997,0.23012361634534997,0.3270644495687891,3
+P73603,P73603_SYNY3 Slr1852 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1852 PE=4 SV=1,0.4273905626707494,0.12971001403006438,0.2286991086614313,0.2286991086614313,0.15159751745509883,3
+P73309,RL24_SYNY3 50S ribosomal protein L24 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplX PE=3 SV=1,-0.29017847872495356,0.33616746167061884,0.224020357039682,0.224020357039682,0.3339876876046039,3
+P80507,IPYR_SYNY3 Inorganic pyrophosphatase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ppa PE=1 SV=2,0.24024992474269094,-0.41117847587082446,0.22172983677189304,0.22172983677189304,0.3708716954681634,3
+Q55436,Q55436_SYNY3 Slr0848 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0848 PE=1 SV=1,0.21957111430902934,-0.27323325707083296,0.3171689836184513,0.21957111430902934,0.31647967242667363,3
+Q55432,Q55432_SYNY3 Sll0822 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0822 PE=1 SV=1,-0.06436182708624898,0.20791183459570617,0.3378245591268966,0.20791183459570617,0.20524950348945475,3
+P51634,CHLI_SYNY3 Magnesium-chelatase subunit ChlI OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=chlI PE=3 SV=2,NA,0.28950661719498505,0.12093908144677792,0.20522284932088147,0.11919524761546314,2
+P36239,RL19_SYNY3 50S ribosomal protein L19 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplS PE=3 SV=1,1.4740179230073445e-4,0.3355724370723136,0.20226822268050285,0.20226822268050285,0.1688849678053756,3
+P74228,EFG2_SYNY3 Elongation factor G 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=fusB PE=3 SV=1,0.506753668370459,0.2013916560081837,-0.7462793453058356,0.2013916560081837,0.6533781471052517,3
+P74534,P74534_SYNY3 Sll1338 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1338 PE=4 SV=1,0.010647244199508372,0.20511442990461257,0.19930880822340669,0.19930880822340669,0.1106378305547069,3
+P73253,P73253_SYNY3 Sll1911 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1911 PE=4 SV=1,1.3344740386908964,0.19861403573663997,-0.04569564395826844,0.19861403573663997,0.7365158426456022,3
+Q55641,Q55641_SYNY3 Ribonuclease D OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rnd PE=4 SV=1,0.19805303978675579,0.4006822063017736,-0.32533896592749706,0.19805303978675579,0.37463415783341747,3
+P72874,IF3_SYNY3 Translation initiation factor IF-3 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=infC PE=3 SV=1,0.1975023778082157,0.480267050792438,-0.1002661618015914,0.1975023778082157,0.29029891904551763,3
+P74230,RS12_SYNY3 30S ribosomal protein S12 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsL PE=3 SV=1,0.24693819911718745,-0.11094780134470494,0.19384315316006034,0.19384315316006034,0.1931316473202174,3
+P73069,YC48L_SYNY3 Ycf48-like protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr2034 PE=3 SV=1,1.051271938710332,0.18951931142796444,-0.12230347685603911,0.18951931142796444,0.6078829791364802,3
+P73311,RS17_SYNY3 30S ribosomal protein S17 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsQ PE=3 SV=1,0.4828888480422824,0.18491707735102605,0.11637196470065417,0.18491707735102605,0.19485902355788562,3
+Q55522,SYV_SYNY3 Valine--tRNA ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=valS PE=3 SV=1,-1.0197106458207497,0.18106414506272595,0.3181548974011056,0.18106414506272595,0.7360410070707415,3
+P74070,EFTS_SYNY3 Elongation factor Ts OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=tsf PE=1 SV=3,-0.0273212711855422,0.1786685585951198,0.3611202313594544,0.1786685585951198,0.194339575557401,3
+P27179,ATPA_SYNY3 ATP synthase subunit alpha OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=atpA PE=3 SV=1,-0.008817558511953006,0.18316402493151054,0.17669742943028,0.17669742943028,0.10902182961074276,3
+P73306,RL6_SYNY3 50S ribosomal protein L6 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplF PE=3 SV=1,0.03401041124458311,0.3263291391384622,0.17582760186652224,0.17582760186652224,0.1461808622646459,3
+P73201,SYS_SYNY3 Serine--tRNA ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=serS PE=3 SV=1,0.3538676671695635,0.09320416579851666,0.1720293441837505,0.1720293441837505,0.1336812411427339,3
+P73952,P73952_SYNY3 Sll1418 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1418 PE=1 SV=1,1.1856624047962812,0.14592230882000823,0.1659291862537905,0.1659291862537905,0.5946028897962666,3
+P73913,P73913_SYNY3 Acetolactate synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ilvG PE=3 SV=1,0.9471757661105795,-0.7229551565459205,0.16042567253004467,0.16042567253004467,0.8355312379699289,3
+P73452,NRTA_SYNY3 Nitrate transport protein NrtA OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=nrtA PE=1 SV=1,-0.08692416327175298,0.6900292802452995,0.1601081430821052,0.1601081430821052,0.3969672583870205,3
+P73294,RL13_SYNY3 50S ribosomal protein L13 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplM PE=3 SV=1,0.1589768594876554,-0.015520871744481262,0.1680790665949076,0.1589768594876554,0.10347402712566223,3
+Q55375,Q55375_SYNY3 Slr0909 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0909 PE=4 SV=1,0.24068413861031113,0.10725204609429435,0.15840645448033608,0.15840645448033608,0.06731829136809794,3
+Q55118,PPI3_SYNY3 Putative thylakoid lumen peptidyl-prolyl cis-trans isomerase sll0408 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0408 PE=3 SV=2,0.3487822360916341,-0.3672030040607321,0.15595230389299336,0.15595230389299336,0.3704748581455812,3
+P74607,Y2874_SYNY3 Putative regulatory protein ssl2874 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssl2874 PE=3 SV=1,0.15493757031656924,0.059507755220722124,0.34878139784259043,0.15493757031656924,0.14740054239774125,3
+P77962,GLYA_SYNY3 Serine hydroxymethyltransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=glyA PE=3 SV=1,0.30183141430115085,0.15421887492943603,-4.317647316570261,0.15421887492943603,2.6254828267524153,3
+P72805,P72805_SYNY3 Sll1665 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1665 PE=4 SV=1,-0.34303741971450413,0.2682274250760528,0.15308992224136198,0.15308992224136198,0.3248188455308654,3
+Q59993,CLPP2_SYNY3 ATP-dependent Clp protease proteolytic subunit 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=clpP2 PE=3 SV=1,0.15017574039404324,0.24952855127396198,0.040515159738713835,0.15017574039404324,0.10454904895189293,3
+P74061,RPE_SYNY3 Ribulose-phosphate 3-epimerase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpe PE=1 SV=3,0.05310876022071813,0.15007736006783415,0.558031763016757,0.15007736006783415,0.2679480493784479,3
+P55038,GLTS_SYNY3 Ferredoxin-dependent glutamate synthase 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gltS PE=1 SV=2,0.14691099724449727,0.03778411876361824,0.2932726229710595,0.14691099724449727,0.12819566872198307,3
+P72700,P72700_SYNY3 Slr0244 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0244 PE=4 SV=1,0.3123602101873279,0.08079614295262981,0.14503848650887854,0.14503848650887854,0.11954466052108048,3
+P73849,COMB_SYNY3 Probable 2-phosphosulfolactate phosphatase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=comB PE=3 SV=1,0.3018581772863976,0.1443169002999177,0.13736413965815053,0.1443169002999177,0.09302856483388643,3
+P74459,CLPB1_SYNY3 Chaperone protein ClpB 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=clpB1 PE=3 SV=1,0.015559566056458378,0.17121736706936894,0.14357868574708885,0.14357868574708885,0.08304832200569875,3
+P73303,RL15_SYNY3 50S ribosomal protein L15 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplO PE=3 SV=1,0.1423597855615965,0.46428788044895897,-0.7007294450304863,0.1423597855615965,0.6016231541540263,3
+Q55776,Q55776_SYNY3 Sll0180 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0180 PE=3 SV=1,-0.5486474576906772,0.39996759195666015,0.13716986810861376,0.13716986810861376,0.4897752138215424,3
+P73308,RL5_SYNY3 50S ribosomal protein L5 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplE PE=3 SV=2,0.13535409893066816,-0.10987003943543037,0.1825272191552909,0.13535409893066816,0.15698000835588974,3
+P74299,CAPP_SYNY3 Phosphoenolpyruvate carboxylase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ppc PE=3 SV=1,0.7748758052932082,0.1305723375608195,-0.049347674060383734,0.1305723375608195,0.4333671486225616,3
+P72707,P72707_SYNY3 Sll0224 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0224 PE=4 SV=1,0.02466920196819081,0.12990541779890746,0.29253213981881415,0.12990541779890746,0.13495225409459707,3
+P74142,RS1B_SYNY3 30S ribosomal protein S1 homolog B OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rps1b PE=3 SV=1,0.1298700617368701,0.2498970224663432,-0.5857750120294587,0.1298700617368701,0.4518299997687776,3
+P74281,P74281_SYNY3 Soluble hydrogenase 42 kD subunit OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1559 PE=3 SV=1,0.1220973140371879,0.12756725439415412,0.19554975906065966,0.12756725439415412,0.04092025347788534,3
+P73319,RL4_SYNY3 50S ribosomal protein L4 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplD PE=3 SV=1,-0.4041318257189645,0.12729224811101894,0.15028928047381565,0.12729224811101894,0.3136673324653518,3
+P77973,ASSY_SYNY3 Argininosuccinate synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=argG PE=1 SV=1,-0.31089291020457793,0.4845644191854334,0.12613955276343886,0.12613955276343886,0.39837547645360166,3
+P54416,CLPP1_SYNY3 ATP-dependent Clp protease proteolytic subunit 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=clpP1 PE=3 SV=1,1.0288213472446055,0.12507947562182506,-0.05028761088873514,0.12507947562182506,0.5790767262172709,3
+Q05972,CH601_SYNY3 60 kDa chaperonin 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=groL1 PE=1 SV=4,0.39267978271103515,0.03167139977768545,0.12284795625204722,0.12284795625204722,0.1877273872618075,3
+P48959,RL35_SYNY3 50S ribosomal protein L35 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpmI PE=3 SV=1,-0.4907691728531779,0.12172052650900726,0.12723226211802957,0.12172052650900726,0.35522288418228243,3
+P72584,ACSF1_SYNY3 Magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=acsF1 PE=3 SV=1,0.005736977845283397,0.15651809553415258,0.12030956270221357,0.12030956270221357,0.07871137200996295,3
+P52415,GLGC_SYNY3 Glucose-1-phosphate adenylyltransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=glgC PE=3 SV=2,-0.06349619023908387,0.11738039517986833,0.15020141348452773,0.11738039517986833,0.11507984491400455,3
+Q6ZEA8,Q6ZEA8_SYNY3 Uncharacterized protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll7090 PE=4 SV=1,-0.4653827213473425,0.1708673674802253,0.11675081868852911,0.11675081868852911,0.3527563452821479,3
+P74296,SYFB_SYNY3 Phenylalanine--tRNA ligase beta subunit OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pheT PE=3 SV=1,-0.4568430440929725,0.11478189196234374,0.2532456769515186,0.11478189196234374,0.376420261372041,3
+Q55511,TIG_SYNY3 Trigger factor OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=tig PE=3 SV=1,0.3403500837155061,0.1141560922192021,-0.04959643460050745,0.1141560922192021,0.19580470669166375,3
+P17253,ATPG_SYNY3 ATP synthase gamma chain OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=atpG PE=3 SV=1,0.2482229357935251,0.0360346024433367,0.11331652352962954,0.11331652352962954,0.10739035044068192,3
+P72689,IF2_SYNY3 Translation initiation factor IF-2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=infB PE=3 SV=1,-0.48805100974275256,0.11282399830676572,0.33606653351853555,0.11282399830676572,0.42623501536462804,3
+P74266,RL21_SYNY3 50S ribosomal protein L21 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplU PE=3 SV=1,0.11140318893182323,0.1956545251729572,0.1039473840127758,0.11140318893182323,0.050931451358960454,3
+P72854,SIR_SYNY3 Sulfite reductase [ferredoxin] OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sir PE=1 SV=1,0.1076372081686457,-0.20354969106510148,0.31379523101471024,0.1076372081686457,0.2604432711872457,3
+P74229,RS7_SYNY3 30S ribosomal protein S7 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsG PE=3 SV=1,-0.2795974252836129,0.10534331948084635,0.32536063288751027,0.10534331948084635,0.3062028868045605,3
+P22034,CH602_SYNY3 60 kDa chaperonin 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=groL2 PE=1 SV=4,0.10485959439150837,0.17315768069058848,0.09384660166909044,0.10485959439150837,0.04296541604665887,3
+P72798,P72798_SYNY3 Ssr2998 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssr2998 PE=4 SV=1,0.22912991798945961,0.10167400789775252,-0.47582918339759694,0.10167400789775252,0.37565992590863007,3
+P28371,EFG1_SYNY3 Elongation factor G 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=fusA PE=1 SV=2,0.049468676264299904,0.15381552463931217,0.09842695477277986,0.09842695477277986,0.05220643554226403,3
+P29107,ILVC_SYNY3 Ketol-acid reductoisomerase (NADP(+)) OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ilvC PE=1 SV=3,0.13753051549056733,-0.0727665808138657,0.09646431667428848,0.09646431667428848,0.11146778164110939,3
+P09192,PSBD_SYNY3 Photosystem II D2 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psbD PE=1 SV=2,0.09536402233325665,-0.0027797600909860777,0.2759362679750774,0.09536402233325665,0.14137489300060194,3
+P73851,SYDND_SYNY3 Aspartate--tRNA(Asp/Asn) ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=aspS PE=3 SV=1,0.5112042527495141,0.09475775007282541,-0.8820454447246208,0.09475775007282541,0.7151592934992306,3
+P74360,Y1526_SYNY3 Uncharacterized protein sll1526 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1526 PE=4 SV=1,1.0035937013434,0.08013951358031514,-0.056102680907566885,0.08013951358031514,0.5765249336920651,3
+P73546,"P73546_SYNY3 Alpha-1,4 glucan phosphorylase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=glgP PE=3 SV=1",-1.0085852544767695,0.07932183467265794,0.15814701305789192,0.07932183467265794,0.6520505383628401,3
+P73810,TOP1_SYNY3 DNA topoisomerase 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=topA PE=3 SV=1,0.3975856417005114,-0.5706041679283238,0.07725900471509463,0.07725900471509463,0.49324222452041805,3
+P74175,P74175_SYNY3 HlyD family of secretion proteins OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=hlyD PE=4 SV=1,0.09657325969505288,0.05563469897281874,0.07449372622413454,0.07449372622413454,0.0204903817321174,3
+Q55247,GLNB_SYNY3 Nitrogen regulatory protein P-II OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=glnB PE=1 SV=1,0.07392955296034713,0.0590073273538825,0.21278202027830084,0.07392955296034713,0.08480304306777832,3
+P73312,RL29_SYNY3 50S ribosomal protein L29 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpmC PE=3 SV=1,0.0721758394435211,0.11380937527404122,0.014122594622607546,0.0721758394435211,0.050068261364919237,3
+P77965,RPOB_SYNY3 DNA-directed RNA polymerase subunit beta OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpoB PE=3 SV=1,-0.28941794891142325,0.07176433979005312,0.09406673358446568,0.07176433979005312,0.21525587260652163,3
+P74008,SAHH_SYNY3 Adenosylhomocysteinase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ahcY PE=3 SV=1,0.06909252327294589,0.06259095733099061,0.1861656424495231,0.06909252327294589,0.0695450554144279,3
+P73914,P73914_SYNY3 Squalene-hopene-cyclase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=shc PE=4 SV=1,0.06336058996365852,0.1179952377507516,0.06857699813857618,0.06857699813857618,0.03015050596433789,3
+P73789,PPI2_SYNY3 Peptidyl-prolyl cis-trans isomerase slr1251 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1251 PE=3 SV=1,0.06755126710426348,-0.1133809099411307,0.07830766392798036,0.06755126710426348,0.10770071348803342,3
+P36236,RL1_SYNY3 50S ribosomal protein L1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplA PE=3 SV=1,-6.848777915894323e-4,0.33623593157124587,0.05968774018789241,0.05968774018789241,0.17964751920580865,3
+P48957,RL20_SYNY3 50S ribosomal protein L20 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplT PE=3 SV=1,-0.3145507607904258,0.5028640058993207,0.050828473446784754,0.050828473446784754,0.4094722229516655,3
+P74466,CLPR_SYNY3 Putative ATP-dependent Clp protease proteolytic subunit-like OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=clpR PE=3 SV=1,0.8639633752487246,0.05073188685445121,-0.2973553684997658,0.05073188685445121,0.5959825802316665,3
+P73334,RPOC2_SYNY3 DNA-directed RNA polymerase subunit beta' OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpoC2 PE=3 SV=1,-0.1679791095551757,0.29687578678805376,0.0481256069605074,0.0481256069605074,0.23261841970590486,3
+P74421,PGK_SYNY3 Phosphoglycerate kinase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pgk PE=3 SV=2,0.046043429361205535,-0.15217025583917598,0.10584025040512333,0.046043429361205535,0.13505168525427214,3
+P73289,RL25_SYNY3 50S ribosomal protein L25 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplY PE=3 SV=2,0.0449567056192963,-0.05543195422282467,0.15846877375102383,0.0449567056192963,0.10701743943876729,3
+P26287,CYF_SYNY3 Cytochrome f OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=petA PE=3 SV=1,-0.1684025235128089,0.3258537981011623,0.040059489267513175,0.040059489267513175,0.24813440886929933,3
+P73310,RL14_SYNY3 50S ribosomal protein L14 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplN PE=1 SV=1,0.27146954199750983,0.03723457847105209,0.03005272273455275,0.03723457847105209,0.1373557897172547,3
+P80505,G3P2_SYNY3 Glyceraldehyde-3-phosphate dehydrogenase 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gap2 PE=1 SV=3,0.1705416695606515,0.03563895355306554,-0.033382042748392654,0.03563895355306554,0.10372039429685556,3
+Q55544,APCE_SYNY3 Phycobiliprotein ApcE OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=apcE PE=1 SV=1,0.0341682600453698,0.025931239127795658,0.20671043435438471,0.0341682600453698,0.10207821172647655,3
+Q55480,YZ37_SYNY3 Uncharacterized sugar kinase slr0537 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0537 PE=3 SV=1,0.20153051995397,-0.3648977883932472,0.030571699018555592,0.030571699018555592,0.29053515634270244,3
+P74358,P74358_SYNY3 Sll1528 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1528 PE=4 SV=1,0.49489852866612527,0.024024457124568722,-0.17979616429818585,0.024024457124568722,0.346043871419383,3
+P74750,DPO3A_SYNY3 DNA polymerase III subunit alpha (Fragments) OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=dnaE-N PE=1 SV=2,0.023509783489158134,-0.3823571298981001,0.3157643282379457,0.023509783489158134,0.35059811765486804,3
+P74643,P74643_SYNY3 Phosphoglucomutase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pgm PE=3 SV=1,0.012371777313931888,0.22940875617647166,0.023263566821406016,0.023263566821406016,0.12228349600190638,3
+P72848,HEM6_SYNY3 Oxygen-dependent coproporphyrinogen-III oxidase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=hemF PE=1 SV=1,0.0719197351991026,-0.09190685534282149,0.022181573836778032,0.022181573836778032,0.08399325978609273,3
+P72649,P72649_SYNY3 Phosphoglycerate mutase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gpmB PE=3 SV=1,0.039556360869036335,0.020570396938210153,-0.259871021073524,0.020570396938210153,0.1676626637128805,3
+P77969,HEM2_SYNY3 Delta-aminolevulinic acid dehydratase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=hemB PE=3 SV=1,0.08870934348912975,-0.0826590748228511,0.018844536614558184,0.018844536614558184,0.08616960907536543,3
+P73296,RL17_SYNY3 50S ribosomal protein L17 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplQ PE=3 SV=1,-0.42979985220329014,0.04821881998372287,0.018527135046917675,0.018527135046917675,0.2678247357914841,3
+P74689,ILVD_SYNY3 Dihydroxy-acid dehydratase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ilvD PE=3 SV=1,-0.8033446764900077,0.5656607610794201,0.016856838234633024,0.016856838234633024,0.6889717167127983,3
+Q57038,CYB6_SYNY3 Cytochrome b6 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=petB PE=3 SV=1,-0.4189647291144835,0.01393919095787409,0.20831723612472536,0.01393919095787409,0.32111038921510693,3
+Q55514,Q55514_SYNY3 Slr0552 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0552 PE=4 SV=1,-0.2547558945856354,0.1278560559094578,0.012928331941561365,0.012928331941561365,0.19632249469073595,3
+P74457,PYRH_SYNY3 Uridylate kinase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pyrH PE=3 SV=1,0.25536974378272115,0.006932714161885087,-0.42265558597064845,0.006932714161885087,0.34302220848528875,3
+P73204,"PYR2_SYNY3 Phycobilisome 32.1 kDa linker polypeptide, phycocyanin-associated, rod 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cpcC2 PE=1 SV=1",-0.083511985593569385,0.04374477393841311,0.0058850626738201385,0.0058850626738201385,0.06534456470962363,3
+P73297,RPOA_SYNY3 DNA-directed RNA polymerase subunit alpha OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpoA PE=3 SV=1,-0.022717659113606428,0.28974196373303,0.004865242392345404,0.004865242392345404,0.17298679078991713,3
+P05429,PSBB_SYNY3 Photosystem II CP47 reaction center protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psbB PE=1 SV=1,0.00418779696343347,0.14105758688332776,-0.04688638763083588,0.00418779696343347,0.09718097317279249,3
+Q55707,Y617_SYNY3 Uncharacterized protein sll0617 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0617 PE=3 SV=1,0.29782027020787477,-0.7030182622428685,0.003088181787570462,0.003088181787570462,0.5143168741615851,3
+P48939,RS4_SYNY3 30S ribosomal protein S4 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsD PE=3 SV=1,0.08473395069176885,-0.287844567576392,-0.0035472861790169347,-0.0035472861790169347,0.19469346559325523,3
+P73315,RL22_SYNY3 50S ribosomal protein L22 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplV PE=3 SV=1,-0.5313382604923272,0.5484129933663487,-0.009431225932827336,-0.009431225932827336,0.5399752920176967,3
+P73418,DBH_SYNY3 DNA-binding protein HU OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=hup PE=3 SV=2,-0.15498302980633244,0.22852638727073873,-0.011247552344882858,-0.011247552344882858,0.19374850648313033,3
+P72656,RNE_SYNY3 Ribonuclease E/G-like protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rne PE=3 SV=1,0.4936840356380644,-0.16515197041995233,-0.012119972825106518,-0.012119972825106518,0.3447997897678592,3
+P48946,RS18_SYNY3 30S ribosomal protein S18 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsR PE=3 SV=1,-0.01330843540665844,-0.12957699453964436,0.33402705563087315,-0.01330843540665844,0.24120842871938628,3
+P74467,CLPP3_SYNY3 Probable ATP-dependent Clp protease proteolytic subunit 3 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=clpP3 PE=3 SV=1,-0.013359906310732575,-0.4589567597271885,0.9001273859347055,-0.013359906310732575,0.6928353945753241,3
+P73946,P73946_SYNY3 Slr1506 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1506 PE=4 SV=1,-0.4631339864831942,0.07559551498295801,-0.014316371173258598,-0.014316371173258598,0.2886032093938651,3
+P73320,RL3_SYNY3 50S ribosomal protein L3 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplC PE=3 SV=1,-0.016925014574818698,0.06300731798881236,-0.13317295145389826,-0.016925014574818698,0.09864875293714219,3
+P73722,LEXA_SYNY3 Transcription regulator LexA OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=lexA PE=1 SV=1,0.41163434174926333,-0.030921335915820195,-0.01906350170160268,-0.01906350170160268,0.2521562902973339,3
+P52208,"6PGD_SYNY3 6-phosphogluconate dehydrogenase, decarboxylating OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gnd PE=3 SV=1",-0.02098951502350968,-0.014629578195447225,-0.2729355040349767,-0.02098951502350968,0.1473313620716013,3
+Q55517,Q55517_SYNY3 Sll0529 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0529 PE=4 SV=1,0.8479328695152656,-0.045243412984492706,-0.022151709002152964,-0.022151709002152964,0.50914049668481,3
+Q55366,Q55366_SYNY3 Ferredoxin--nitrite reductase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=nirA PE=3 SV=1,-0.02980571269150993,0.09270763847451721,-0.02225451466258658,-0.02225451466258658,0.06865716575799062,3
+P73313,RL16_SYNY3 50S ribosomal protein L16 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplP PE=3 SV=1,0.8943038033726497,-0.02447240135337751,-0.17911055496639766,-0.02447240135337751,0.5802702039584713,3
+P22358,DNAK2_SYNY3 Chaperone protein dnaK2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=dnaK2 PE=2 SV=1,-0.025511326240671192,-0.1389016454523179,-0.02145310966631766,-0.025511326240671192,0.06666832352644304,3
+P12975,PSAE_SYNY3 Photosystem I reaction center subunit IV OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psaE PE=1 SV=4,-0.7403673760792474,0.02892887170294917,-0.026749093626869603,-0.026749093626869603,0.4289848104780473,3
+P72659,PNP_SYNY3 Polyribonucleotide nucleotidyltransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pnp PE=3 SV=1,-0.029146345659516508,-0.14807952550895145,0.35989594508638273,-0.029146345659516508,0.26568718573555195,3
+P37101,KPPR_SYNY3 Phosphoribulokinase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=prk PE=2 SV=1,-0.02968903972895124,-0.056359655139260396,0.015310944910399941,-0.02968903972895124,0.03622383022124348,3
+P73606,P73606_SYNY3 Slr1855 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1855 PE=4 SV=1,0.20723562939429366,-0.037226842902047634,-0.2016338611696506,-0.037226842902047634,0.20573681745169103,3
+P74275,P74275_SYNY3 Delta-1-pyrroline-5-carboxylate dehydrogenase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=putA PE=3 SV=1,0.004434227819428699,-0.3379234706609011,-0.038044292102428844,-0.038044292102428844,0.18661044097995702,3
+P73833,CPHA_SYNY3 Cyanophycin synthetase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cphA PE=3 SV=1,0.14650213305860657,-0.04163406952294374,-0.8019675663013115,-0.04163406952294374,0.5021780938486731,3
+P72683,P72683_SYNY3 Geranylgeranyl pyrophosphate synthase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=crtE PE=3 SV=1,-0.3332842459685853,0.05612260013235794,-0.04560178862564391,-0.04560178862564391,0.20196812426772784,3
+Q55664,ALF2_SYNY3 Fructose-bisphosphate aldolase class 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=fbaA PE=1 SV=3,-0.04580607779951717,0.07592417511660542,-0.07670339406198594,-0.04580607779951717,0.0806929091273534,3
+P73348,P73348_SYNY3 Rehydrin OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1198 PE=1 SV=1,-0.35091051995883094,-0.05534519128123361,0.031097556799528688,-0.05534519128123361,0.20031699167430897,3
+Q55828,DAPAT_SYNY3 LL-diaminopimelate aminotransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=dapL PE=1 SV=1,-0.18198817362563635,-0.059851972078432104,0.022885315970814762,-0.059851972078432104,0.10306620631221347,3
+P73093,P73093_SYNY3 Phycobilisome rod-core linker polypeptide CpcG OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cpcG PE=3 SV=1,-0.49759245101177685,-0.061222240282309166,-0.012674757920978505,-0.061222240282309166,0.2670583543997471,3
+P36237,RL11_SYNY3 50S ribosomal protein L11 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplK PE=3 SV=1,-1.1263480771790864,-0.06143060049774782,0.11616832882998568,-0.06143060049774782,0.6719917696719964,3
+P73728,PRX5_SYNY3 Peroxiredoxin sll1621 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1621 PE=1 SV=1,-0.06296660249293731,-0.06207504100145334,-0.02874275845496468,-0.06207504100145334,0.019506868202368823,3
+P73765,P73765_SYNY3 Slr0869 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0869 PE=4 SV=1,-0.4243965657751459,-0.06786402438196787,-0.03254869386819183,-0.06786402438196787,0.21675922908440146,3
+P73604,P73604_SYNY3 Slr1853 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1853 PE=4 SV=1,-0.9193153398632457,0.18994622535945155,-0.07286573115759769,-0.07286573115759769,0.5796562608774519,3
+P73336,RS20_SYNY3 30S ribosomal protein S20 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsT PE=3 SV=1,-0.4772376606284609,-0.07419413219525396,0.37464064179608625,-0.07419413219525396,0.42614422095058285,3
+P27724,NDHH_SYNY3 NAD(P)H-quinone oxidoreductase subunit H OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ndhH PE=1 SV=3,-0.07604725470076006,-0.06512360566452337,-0.15260587989920307,-0.07604725470076006,0.04766846879894202,3
+P73600,P73600_SYNY3 Sll1785 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1785 PE=1 SV=1,0.7777974194482052,-0.08056328223265469,-0.4794020902764063,-0.08056328223265469,0.642444043768745,3
+P77970,P77970_SYNY3 Glutamate--ammonia ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=glnN PE=3 SV=1,0.01575296860688918,-0.728192717994336,-0.08145314680684514,-0.08145314680684514,0.40438766186795244,3
+P73405,P73405_SYNY3 Pyruvate dehydrogenase E1 beta subunit OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pdhB PE=4 SV=1,-0.03555886633489456,-0.08299792323090169,-1.0315643228298683,-0.08299792323090169,0.5618504468769677,3
+P74426,P74426_SYNY3 Sll0359 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0359 PE=1 SV=1,-0.33849936453683144,-0.09312012082898644,0.09456542971772762,-0.09312012082898644,0.21717195765468153,3
+P72586,"P72586_SYNY3 GDP-mannose 4,6-dehydratase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rfbD PE=3 SV=1",-0.6217051440881082,-0.0313332068047916,-0.09356031705053247,-0.09356031705053247,0.324383568199681,3
+P54205,RBL_SYNY3 Ribulose bisphosphate carboxylase large chain OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cbbL PE=1 SV=1,-0.36901182812289524,-0.041132579141947574,-0.1100607649503399,-0.1100607649503399,0.1728735326904918,3
+P74456,RRF_SYNY3 Ribosome-recycling factor OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=frr PE=3 SV=1,-1.0498836465790045,0.23735032411699752,-0.11761803253437234,-0.11761803253437234,0.6648424631278682,3
+P73488,P73488_SYNY3 Sll1130 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1130 PE=4 SV=1,-0.6747250928141214,-0.02948519915190066,-0.11951329691202403,-0.11951329691202403,0.3494518844009793,3
+P73282,P73282_SYNY3 Transketolase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=tktA PE=3 SV=1,-0.03189117258040057,-0.14307287898024698,-0.12075552710002371,-0.12075552710002371,0.05881653613443053,3
+P73305,RL18_SYNY3 50S ribosomal protein L18 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplR PE=3 SV=1,0.39393106424618307,-0.12113921823331819,-0.2257742260774716,-0.12113921823331819,0.3317329567627111,3
+P73107,P73107_SYNY3 Sll1837 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1837 PE=4 SV=1,-0.2155323392292221,0.3925428614917573,-0.12822657730190665,-0.12822657730190665,0.32878020879685876,3
+P54899,ARGC_SYNY3 N-acetyl-gamma-glutamyl-phosphate reductase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=argC PE=3 SV=1,-0.062474492210542736,-0.20563709816171521,-0.13034897085747818,-0.13034897085747818,0.07161328869618978,3
+P73133,ARGD_SYNY3 Acetylornithine aminotransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=argD PE=3 SV=1,0.23375822346316188,-0.34122018868537246,-0.131734554376312,-0.131734554376312,0.29099523938589733,3
+P49057,GUAA_SYNY3 GMP synthase [glutamine-hydrolyzing] OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=guaA PE=3 SV=1,-0.13434587283762875,-0.33984002467090985,0.022730054713798752,-0.13434587283762875,0.18182306230639667,3
+P74071,RS2_SYNY3 30S ribosomal protein S2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsB PE=3 SV=1,-0.13511547432042295,0.024492314089723865,-0.22152479539807582,-0.13511547432042295,0.12481027939170392,3
+P54691,ILVE_SYNY3 Probable branched-chain-amino-acid aminotransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ilvE PE=3 SV=1,-0.13344938005988327,-0.236832077202742,-0.13547502782747203,-0.13547502782747203,0.059111951379665094,3
+P74490,P74490_SYNY3 Pyruvate dehydrogenase E1 component subunit alpha OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pdhA PE=4 SV=1,0.3542493819452408,-0.13860287036275093,-0.17297493007823933,-0.13860287036275093,0.2949718224629762,3
+Q55765,Q55765_SYNY3 RNA-binding protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0193 PE=4 SV=1,-0.03889787469408535,-0.32544587502876593,-0.13890960666901556,-0.13890960666901556,0.14543491238466447,3
+P73203,"PYR1_SYNY3 Phycobilisome 32.1 kDa linker polypeptide, phycocyanin-associated, rod 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cpcC1 PE=1 SV=3",-0.22754897151892223,-0.09406349269275681,-0.143039960455627,-0.143039960455627,0.0675263410367567,3
+P73799,P73799_SYNY3 Slr1259 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1259 PE=4 SV=1,-0.14932465540785272,-0.2505537652352304,-0.11866797405936905,-0.14932465540785272,0.06901814580459824,3
+Q55604,Q55604_SYNY3 Slr0769 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0769 PE=4 SV=1,-2.1169425617107405,-0.08863340434086943,-0.15685077786768425,-0.15685077786768425,1.1518573008414443,3
+P52981,"GLGB_SYNY3 1,4-alpha-glucan branching enzyme GlgB OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=glgB PE=3 SV=1",0.08057486315384672,-0.1589192935515569,-0.6911231094725641,-0.1589192935515569,0.39499285093374925,3
+P74410,RS16_SYNY3 30S ribosomal protein S16 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsP PE=3 SV=1,-0.06851981071623912,-0.3877177438571687,-0.16581247263201482,-0.16581247263201482,0.1636027363165665,3
+P19125,NDHJ_SYNY3 NAD(P)H-quinone oxidoreductase subunit J OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ndhJ PE=1 SV=4,0.5688204234918233,-0.5225738788454222,-0.16654519819045793,-0.16654519819045793,0.5565759220710272,3
+P74233,P74233_SYNY3 Slr1160 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1160 PE=4 SV=1,-1.1217585598592046,-0.17419192461056499,-0.08111231842504939,-0.17419192461056499,0.5758314193603185,3
+P73911,KATG_SYNY3 Catalase-peroxidase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=katG PE=1 SV=1,-0.019747933650903028,-0.45474219023427737,-0.18021260584414928,-0.18021260584414928,0.2199755315893205,3
+P74789,P74789_SYNY3 Sll0319 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0319 PE=4 SV=1,-0.2701455527848162,-0.18891331953813426,0.2988754040673184,-0.18891331953813426,0.3077665142960918,3
+P20804,ACP_SYNY3 Acyl carrier protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=acpP PE=1 SV=2,-0.19174220849626342,-0.2943757897028257,-0.029378603445491366,-0.19174220849626342,0.1336158055525066,3
+P73762,P73762_SYNY3 Sll0837 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0837 PE=4 SV=1,0.08216660405794068,-0.19340520179778195,-0.6832888028712212,-0.19340520179778195,0.3876957017172861,3
+P74463,P74463_SYNY3 Twitching motility protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pilT PE=4 SV=1,-0.9822161687641855,0.11599329506481992,-0.19872903008969034,-0.19872903008969034,0.5655331208783738,3
+Q59978,GRPE_SYNY3 Protein GrpE OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=grpE PE=3 SV=1,-0.243836673075511,-0.208271313091795,-0.09625725806512234,-0.208271313091795,0.07701918277188946,3
+P73287,P73287_SYNY3 Bacterioferritin OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=bfr PE=3 SV=1,-0.7606886628854896,-0.2094194298443933,-0.09829511236014982,-0.2094194298443933,0.3547326685951041,3
+P26527,ATPB_SYNY3 ATP synthase subunit beta OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=atpD PE=3 SV=1,-0.40025925899681303,-0.1969023194764935,-0.21044257277634487,-0.21044257277634487,0.11370118562722105,3
+P73530,RS1A_SYNY3 30S ribosomal protein S1 homolog A OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rps1A PE=3 SV=1,-0.2304049413878323,-0.06286259125651406,-0.2144241559939436,-0.2144241559939436,0.0924632652237172,3
+P73321,Y1894_SYNY3 Uncharacterized protein slr1894 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1894 PE=3 SV=1,-0.14815245353874557,-0.23553649559519965,-0.2147564071114988,-0.2147564071114988,0.04565061064767921,3
+P73318,RL23_SYNY3 50S ribosomal protein L23 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplW PE=3 SV=1,-0.19427616352132382,-0.21699130576540163,-0.4201180555474683,-0.21699130576540163,0.12435233167505934,3
+Q55154,DNAK1_SYNY3 Chaperone protein dnaK1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=dnaK1 PE=3 SV=1,0.760137686322597,-0.2247390953900604,-0.2792644290692881,-0.2247390953900604,0.5849945932300911,3
+Q54714,PHCB_SYNY3 C-phycocyanin beta chain OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cpcB PE=1 SV=2,-0.2673753150466732,-0.22611420505864827,-0.10449416787110578,-0.22611420505864827,0.08467996688333072,3
+P73274,SYL_SYNY3 Leucine--tRNA ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=leuS PE=3 SV=1,0.054435590189543304,-0.22700904940681785,-0.3597039058127694,-0.22700904940681785,0.21147518854591085,3
+P73643,P73643_SYNY3 Sll1762 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1762 PE=4 SV=1,-0.7017930989430393,-0.1836581653249607,-0.22971933835691738,-0.22971933835691738,0.2867749049139451,3
+P73222,P73222_SYNY3 Slr2005 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr2005 PE=4 SV=1,-0.19825479410465513,-0.24671036371082092,-0.2297865382414586,-0.2297865382414586,0.024592034559603012,3
+P74227,EFTU_SYNY3 Elongation factor Tu OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=tuf PE=1 SV=1,-0.26287007360535,-0.2320110068469395,-0.13941713078310794,-0.2320110068469395,0.06424761600920309,3
+P74267,RL27_SYNY3 50S ribosomal protein L27 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpmA PE=3 SV=1,-0.855848754829788,0.3993699975876602,-0.23653030325192653,-0.23653030325192653,0.627627630246509,3
+P74630,P74630_SYNY3 Sll0735 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0735 PE=3 SV=1,0.1320028793536382,-0.2377055791207345,-1.3347341615814814,-0.2377055791207345,0.7628317422881715,3
+P23350,RL10_SYNY3 50S ribosomal protein L10 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplJ PE=3 SV=1,-0.23772750601661974,-0.5097641849073582,0.1733997665368988,-0.23772750601661974,0.3439337565704887,3
+P72740,DLDH_SYNY3 Dihydrolipoyl dehydrogenase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=lpdA PE=1 SV=3,-0.14484300284754786,-0.2462975540224016,-0.24007764456116154,-0.24007764456116154,0.056864385764315746,3
+P72749,TYPA_SYNY3 GTP-binding protein TypA/BipA homolog OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=typA PE=3 SV=1,-0.24626273814825464,0.08112978336696358,-0.3364434563104139,-0.24626273814825464,0.21972931664777764,3
+P77972,ENO_SYNY3 Enolase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=eno PE=3 SV=1,-0.2536510348580183,-0.3425563922337524,-0.19718077799134928,-0.2536510348580183,0.07328838209094556,3
+P73565,P73565_SYNY3 Sll0872 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0872 PE=4 SV=1,-0.25400478898245693,-0.5816790866428871,-0.1285223024317498,-0.25400478898245693,0.2339755581447145,3
+P72937,P72937_SYNY3 Slr0670 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0670 PE=4 SV=1,-0.03253875679161116,-0.25480182672158247,-0.2976236372195287,-0.25480182672158247,0.1423051729795868,3
+P73609,P73609_SYNY3 Anti-sigma factor antagonist OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1859 PE=3 SV=1,-0.26486175888480057,-0.23903798342684712,-0.3165167361045645,-0.26486175888480057,0.039450519994401134,3
+P27180,ATPD_SYNY3 ATP synthase subunit delta OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=atpH PE=3 SV=1,-0.2685064013133648,-0.00774949960493467,-0.28913454145801637,-0.2685064013133648,0.1568423963373572,3
+P74002,Y1322_SYNY3 Metalloprotease slr1322 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1322 PE=3 SV=1,0.5123117767229397,-0.27079823945468046,-0.9048395618218223,-0.27079823945468046,0.7098811652013781,3
+P73061,URE1_SYNY3 Urease subunit alpha OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ureC PE=3 SV=1,-0.20685320466796692,-0.28992794595448906,-0.28354856328099115,-0.28354856328099115,0.046231820203365574,3
+P72870,APCD_SYNY3 Allophycocyanin subunit alpha-B OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=apcD PE=1 SV=1,-0.2982917306201239,-0.5672636926456086,-0.027495844943077864,-0.2982917306201239,0.269884437450821,3
+P74361,CLPB2_SYNY3 Chaperone protein ClpB 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=clpB2 PE=3 SV=1,-0.6173170060358597,0.16340851967620568,-0.30747693858982184,-0.30747693858982184,0.3931213401948888,3
+Q55756,CARB_SYNY3 Carbamoyl-phosphate synthase large chain OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=carB PE=3 SV=2,-0.34042443850475174,-0.3100728249276713,-0.2246218133827734,-0.3100728249276713,0.06004629298288664,3
+P73314,RS3_SYNY3 30S ribosomal protein S3 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpsC PE=1 SV=3,-0.3129212986437647,0.02162514703000863,-0.5678863628272844,-0.3129212986437647,0.2956496599359019,3
+P74344,P74344_SYNY3 Molybdopterin biosynthesis MoeB protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=moeB PE=4 SV=1,-1.057545230420577,-0.33805125832493627,-0.1200506061056459,-0.33805125832493627,0.490593523341777,3
+P73283,FABF_SYNY3 3-oxoacyl-[acyl-carrier-protein] synthase 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=fabF PE=1 SV=1,0.4630881481739925,-0.3419015974811547,-0.8951102862650904,-0.3419015974811547,0.6829777120898304,3
+Q01952,APCB_SYNY3 Allophycocyanin beta chain OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=apcB PE=1 SV=1,-0.3534262477220547,-0.37821363252026186,-0.21381597975241526,-0.3534262477220547,0.08863034619819035,3
+P72644,PURL_SYNY3 Phosphoribosylformylglycinamidine synthase subunit PurL OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=purL PE=3 SV=2,0.8254438783826165,-0.3738393026584944,-0.35437511808249617,-0.35437511808249617,0.6868565919255197,3
+P73922,"FBSB_SYNY3 D-fructose 1,6-bisphosphatase class 2/sedoheptulose 1,7-bisphosphatase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr2094 PE=1 SV=1",-0.362168773390218,-0.08998484398628512,-0.35550337893889217,-0.35550337893889217,0.1552571046749744,3
+P54206,RBS_SYNY3 Ribulose bisphosphate carboxylase small chain OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cbbS PE=3 SV=1,-0.6780195871114756,-0.35919199099320254,-0.2620406880988113,-0.35919199099320254,0.21761121912117445,3
+Q55387,Q55387_SYNY3 Periplasmic binding protein of ABC transporter for natural amino acids OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=natB PE=4 SV=1,-0.5163216154470094,-0.07328921839719281,-0.364060723609855,-0.364060723609855,0.22509596185567504,3
+P74079,P74079_SYNY3 Slr1342 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1342 PE=4 SV=1,0.28047130907532736,-0.7031965797424481,-0.3727615476096953,-0.3727615476096953,0.5005834913719303,3
+P73971,AMPA_SYNY3 Probable cytosol aminopeptidase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pepA PE=3 SV=2,-0.02817241911666689,-0.37931782335344044,-0.6982249880362342,-0.37931782335344044,0.33515551607135485,3
+P72760,CCMK1_SYNY3 Carbon dioxide-concentrating mechanism protein CcmK homolog 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ccmK1 PE=1 SV=3,-0.38437209871778727,-0.5425385110059705,-0.2935178735682941,-0.38437209871778727,0.12601744725334463,3
+P77961,GLN1B_SYNY3 Glutamine synthetase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=glnA PE=1 SV=2,-0.3856737523569102,-0.38441052564711764,-0.2812237346779703,-0.38441052564711764,0.059942911403771115,3
+P74352,RPOZ_SYNY3 DNA-directed RNA polymerase subunit omega OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rpoZ PE=3 SV=1,-0.29300227736048073,-1.4324523204624462,-0.3850314158528264,-0.3850314158528264,0.6329700248919046,3
+P73043,P73043_SYNY3 Glutamate decarboxylase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gad PE=3 SV=1,0.024388084461282575,-0.5755765795991205,-0.3917553520437306,-0.3917553520437306,0.3073877034970887,3
+P73353,P73353_SYNY3 Slr1203 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1203 PE=4 SV=1,-0.5643664584255685,-0.3994195384639744,-0.3742220409592618,-0.3994195384639744,0.10327737714436563,3
+P73660,HEM3_SYNY3 Porphobilinogen deaminase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=hemC PE=3 SV=1,-0.6534601273423326,0.026145743933841937,-0.40007589154225803,-0.40007589154225803,0.3434464038179654,3
+Q55770,Q55770_SYNY3 Sll0185 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0185 PE=4 SV=1,-0.870484331582873,-0.40045324010504124,0.009091963727338137,-0.40045324010504124,0.440134630957692,3
+P74394,P74394_SYNY3 Sll0272 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0272 PE=4 SV=1,-0.4112068586105809,-1.0884220927656787,-0.3403415396095355,-0.4112068586105809,0.4129703138683752,3
+P72991,FTSH3_SYNY3 ATP-dependent zinc metalloprotease FtsH 3 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ftsH3 PE=1 SV=1,-0.02969291952845917,-0.4144715914058736,-0.7413261688653623,-0.4144715914058736,0.3562093070793647,3
+P72769,P72769_SYNY3 Slr1774 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1774 PE=4 SV=1,-1.9847148160176586,-0.4152320243301585,-0.3897788453552438,-0.4152320243301585,0.9135776602854644,3
+P74665,P74665_SYNY3 Glutathione S-transferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gst1 PE=4 SV=1,-0.4257740965192539,-0.7579418658482368,-0.052492707929138294,-0.4257740965192539,0.35292419782382045,3
+P19050,NDHK1_SYNY3 NAD(P)H-quinone oxidoreductase subunit K 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ndhK1 PE=1 SV=1,-0.9997578083918843,0.1429320567357217,-0.42733492091282316,-0.42733492091282316,0.5713452715261321,3
+P72761,CCMK2_SYNY3 Carbon dioxide-concentrating mechanism protein CcmK homolog 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ccmK2 PE=1 SV=3,-0.4486216437874939,-0.598706839137561,-0.3575200445148294,-0.4486216437874939,0.12178952962227685,3
+P74795,P74795_SYNY3 Ssl0352 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssl0352 PE=1 SV=1,0.05397101048452315,-0.47029555854907906,-0.7160566044032254,-0.47029555854907906,0.3933184576470876,3
+P73037,P73037_SYNY3 Peptidyl-prolyl cis-trans isomerase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ytfC PE=3 SV=1,-0.4800570853351111,-0.7544523131640933,-0.09154913508757685,-0.4800570853351111,0.3330845217970973,3
+P73302,KAD1_SYNY3 Adenylate kinase 1 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=adk1 PE=3 SV=2,0.20514586151151334,-0.692439720632656,-0.4894500635080262,-0.4894500635080262,0.47069597003203884,3
+Q05971,CH10_SYNY3 10 kDa chaperonin OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=groS PE=1 SV=3,-1.1297636996054408,-0.49468403342954514,-0.3892817316857791,-0.49468403342954514,0.40057237640180693,3
+P72781,P72781_SYNY3 NarL subfamily OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1783 PE=4 SV=1,-0.5057574404894062,-4.723199176126627,-0.2957822171181684,-0.5057574404894062,2.4977631765521795,3
+P80046,IDH_SYNY3 Isocitrate dehydrogenase [NADP] OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=icd PE=1 SV=2,-0.5110113207203925,-0.2702054047498564,-0.5076361553213504,-0.5076361553213504,0.13806534818991975,3
+P73048,P73048_SYNY3 Sll1638 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1638 PE=1 SV=1,-0.417796878585253,-0.5106403352078316,-0.699736346069157,-0.5106403352078316,0.1436819822190675,3
+P73463,P73463_SYNY3 Slr1220 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1220 PE=4 SV=1,0.44390457823334534,-0.5126448324715628,-1.0580389061070588,-0.5126448324715628,0.7602933316412842,3
+Q55013,CY550_SYNY3 Cytochrome c-550 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psbV PE=1 SV=2,-0.5182759822539708,-0.47025285259868504,-0.6338285586601959,-0.5182759822539708,0.08407896140883218,3
+P74494,NDK_SYNY3 Nucleoside diphosphate kinase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ndk PE=1 SV=1,-0.5191974957866723,-0.059378547078931976,-0.6376884912837659,-0.5191974957866723,0.3054821252737989,3
+P73128,P73128_SYNY3 Sulfolipid biosynthesis protein SqdB OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sqdB PE=4 SV=1,-0.7703471320856251,-0.5209164423656631,-0.17980633453564468,-0.5209164423656631,0.29645410218361246,3
+P54224,DCUP_SYNY3 Uroporphyrinogen decarboxylase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=hemE PE=3 SV=1,-0.4374617122825675,-0.5263965560273064,-0.6665909668077902,-0.5263965560273064,0.11551630081599792,3
+Q55663,DXR_SYNY3 1-deoxy-D-xylulose 5-phosphate reductoisomerase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=dxr PE=3 SV=1,-0.4784202220073408,-0.7623396801863636,-0.5295658873052311,-0.5295658873052311,0.15133284313266906,3
+P73824,GPX2_SYNY3 Hydroperoxy fatty acid reductase gpx2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gpx2 PE=1 SV=1,-2.289185518809308,-0.5388615417880832,-0.3879961169914484,-0.5388615417880832,1.056796696193976,3
+P74551,APCF_SYNY3 Allophycocyanin subunit beta-18 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=apcF PE=3 SV=1,-0.41410831258009784,-0.5782724587001027,-0.5494195589410733,-0.5494195589410733,0.08764653452701923,3
+P26290,UCRIB_SYNY3 Cytochrome b6-f complex iron-sulfur subunit 2 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=petC2 PE=3 SV=2,-0.55862310974681,-0.1879952955159796,-0.5849625007211563,-0.55862310974681,0.2219766137107057,3
+P46445,CYC6_SYNY3 Cytochrome c6 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=petJ PE=1 SV=1,-0.7212006066643099,-0.5632137186100427,-0.12547246273454105,-0.5632137186100427,0.30861769374706427,3
+P74036,P74036_SYNY3 dTDP-glucose 4-6-dehydratase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rfbB PE=4 SV=1,-0.061085373709118436,-0.9325480724520676,-0.5665036760668265,-0.5665036760668265,0.4375849242877561,3
+P74771,NDHO_SYNY3 NAD(P)H-quinone oxidoreductase subunit O OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ndhO PE=1 SV=1,-0.5770246812965163,-0.9019243427151692,0.03319512962697217,-0.5770246812965163,0.4747589625601076,3
+P74189,P74189_SYNY3 General secretion pathway protein D OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gspD PE=3 SV=1,0.714633661487453,-0.5780326487694141,-1.3742466836016178,-0.5780326487694141,1.0542267367630422,3
+Q55512,DHAS_SYNY3 Aspartate-semialdehyde dehydrogenase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=asd PE=3 SV=2,-0.17492568250067894,-0.5841307364773677,-1.4358576906924578,-0.5841307364773677,0.6432776888740884,3
+Q54715,PHCA_SYNY3 C-phycocyanin alpha chain OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cpcA PE=1 SV=1,-0.60579950304296315,-0.7679663433495886,-0.4999567695843624,-0.60579950304296315,0.13498759199202998,3
+P73057,Y1847_SYNY3 Nucleoid-associated protein slr1847 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1847 PE=3 SV=1,-0.6724861351681626,0.03503617286096656,-0.615893433699729,-0.615893433699729,0.3931708498256246,3
+P72940,CYSC_SYNY3 Probable adenylyl-sulfate kinase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cysC PE=1 SV=1,-0.677207879918817,-0.10015315137065149,-0.6209307002323184,-0.6209307002323184,0.31816362040403806,3
+P72655,Y1128_SYNY3 Uncharacterized protein slr1128 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1128 PE=3 SV=1,-0.49114976904473695,-0.921516861551011,-0.6429720623089766,-0.6429720623089766,0.21827087461420625,3
+Q55386,Q55386_SYNY3 Slr0924 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0924 PE=4 SV=1,-0.6484792019393475,-0.5265808596022936,-1,-0.6484792019393475,0.24581556766155027,3
+Q55332,PSBU_SYNY3 Photosystem II 12 kDa extrinsic protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psbU PE=1 SV=2,-1.3432622365662388,-0.5640044729198392,-0.6743706513741984,-0.6743706513741984,0.42167114127214633,3
+Q55119,EFP_SYNY3 Elongation factor P OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=efp PE=3 SV=1,-0.24488867080408722,-0.6831576495492303,-1.6531937927177773,-0.6831576495492303,0.7206910032730109,3
+Q01951,PHAA_SYNY3 Allophycocyanin alpha chain OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=apcA PE=1 SV=3,-0.6908371091886982,-0.7803671725291212,-0.5933417093470559,-0.6908371091886982,0.09354099734919014,3
+P73458,P73458_SYNY3 Carboxyl-terminal protease OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=prc PE=3 SV=1,-0.18168391303712259,-1.0103832958141326,-0.6963502200485657,-0.6963502200485657,0.4183779884391977,3
+P42352,RL9_SYNY3 50S ribosomal protein L9 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplI PE=3 SV=2,-0.7606865896439721,-0.7151589374504542,-0.5197857696643854,-0.7151589374504542,0.1279821907349182,3
+P52983,G6PI_SYNY3 Glucose-6-phosphate isomerase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=pgi PE=3 SV=1,-0.7497648436064193,-0.083748956068852215,-0.7212839719339365,-0.7212839719339365,0.3765720867150961,3
+P52231,THIO_SYNY3 Thioredoxin OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=trxA PE=1 SV=3,-0.2617283158347269,-0.7361738833268071,-0.8059004875301258,-0.7361738833268071,0.2961091432490998,3
+P10549,PSBO_SYNY3 Photosystem II manganese-stabilizing polypeptide OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psbO PE=1 SV=1,-0.5272544832204599,-0.7691125356415324,-0.8149092343523061,-0.7691125356415324,0.1545627763415472,3
+P23349,RL7_SYNY3 50S ribosomal protein L7/L12 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplL PE=1 SV=3,-0.805485742300272,-0.7916052259336644,-0.6723474111117393,-0.7916052259336644,0.07319028893049002,3
+P72673,Y729_SYNY3 Thylakoid-associated protein slr0729 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0729 PE=4 SV=1,0.019644529146270174,-0.835255237663368,-1.2358346842485208,-0.835255237663368,0.6412936872167131,3
+Q55443,Q55443_SYNY3 CheA like protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0043 PE=4 SV=1,-0.844981097973673,-1.0226562994312498,-0.6035979237123077,-0.844981097973673,0.21033474760077067,3
+P77968,SODF_SYNY3 Superoxide dismutase [Fe] OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sodB PE=1 SV=3,-0.830190078128673,-1.0320449178100728,-0.8485355580117742,-0.8485355580117742,0.11162259185048973,3
+P73202,"PYS1_SYNY3 Phycobilisome 8.9 kDa linker polypeptide, phycocyanin-associated, rod OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=cpcD PE=1 SV=1",-0.7618515546354458,-1.045644520636037,-0.8532005011624898,-0.8532005011624898,0.1448664777269904,3
+P72733,P72733_SYNY3 Sll1318 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1318 PE=4 SV=1,-0.8727207937868406,-0.8837744422391839,-0.33372990839546013,-0.8727207937868406,0.31442602386211904,3
+P74241,SAT_SYNY3 Sulfate adenylyltransferase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sat PE=3 SV=1,0.5007402473795922,-1.0842222533415642,-0.8748076860033263,-0.8748076860033263,0.8610161348410513,3
+P74753,P74753_SYNY3 Slr0606 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0606 PE=4 SV=1,-1.5884619304513743,-0.892553710106245,-0.7632312488600118,-0.892553710106245,0.44385024275582974,3
+Q55552,Q55552_SYNY3 IMP dehydrogenase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=guaB PE=4 SV=1,-0.528857398836006,-1.0039853479511793,-0.9495950465627571,-0.9495950465627571,0.260040074196957,3
+Q59994,TPIS_SYNY3 Triosephosphate isomerase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=tpiA PE=1 SV=1,-0.9684018209563418,-1.9312783700895524,-0.3409860075717797,-0.9684018209563418,0.8010213948493146,3
+Q55356,PSB28_SYNY3 Photosystem II reaction center Psb28 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=psb28 PE=1 SV=3,-1.0227666670966524,-1.050516692364751,-0.6411070979935425,-1.0227666670966524,0.22878312385078736,3
+P72777,YC54L_SYNY3 Ycf54-like protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1780 PE=1 SV=1,0.009655336807674159,-1.0307843018502592,-1.2207399973925894,-1.0307843018502592,0.6623783518983443,3
+P73120,P73120_SYNY3 Sll1830 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll1830 PE=4 SV=1,-0.4448504152493627,-1.0414268028112386,-1.1828874502675548,-1.0414268028112386,0.3917084728114314,3
+P74236,P74236_SYNY3 Slr1161 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr1161 PE=4 SV=1,-1.0818712027453894,-1.4648273141570767,-0.8839946049135576,-1.0818712027453894,0.29529001771259433,3
+P73945,P73945_SYNY3 Ssl2781 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssl2781 PE=4 SV=1,-0.4744585855383914,-1.4228203224083618,-1.1570740829924722,-1.1570740829924722,0.489212797101492,3
+Q55146,Q55146_SYNY3 Sll0064 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0064 PE=4 SV=1,-0.8871616537991702,-1.7122697662135622,-1.162446984556462,-1.162446984556462,0.42009731049907584,3
+P74769,P74769_SYNY3 Ssr1528 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssr1528 PE=4 SV=1,-1.291982176858836,-0.540725925142236,-1.187493710336864,-1.187493710336864,0.4069423307515356,3
+P21697,PLAS_SYNY3 Plastocyanin OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=petE PE=1 SV=1,-2.2942157791852242,-1.0527187523765729,-1.1952286683692679,-1.1952286683692679,0.6793865631914536,3
+Q55972,Q55972_SYNY3 Slr0708 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0708 PE=4 SV=1,-0.5062254683227725,-1.433459926874244,-1.2813501291622258,-1.2813501291622258,0.4972791589450718,3
+P74390,P74390_SYNY3 Negative aliphatic amidase regulator OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=amiC PE=4 SV=1,-2.170270581974515,-1.361228037389431,-1.3485014119857404,-1.361228037389431,0.4708177946734306,3
+P73290,PURA_SYNY3 Adenylosuccinate synthetase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=purA PE=3 SV=2,-0.3179795012473184,-1.4101862535715264,-1.5935146906502295,-1.4101862535715264,0.689627305756454,3
+Q55747,Q55747_SYNY3 Slr0420 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0420 PE=4 SV=1,-0.3696897149795932,-1.440275876903753,-2.059078342201253,-1.440275876903753,0.8547031799546598,3
+P77966,GYRB_SYNY3 DNA gyrase subunit B OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=gyrB PE=3 SV=1,-2.261166564084469,-1.4571111614162051,0.33413149373319945,-1.4571111614162051,1.3285723759672055,3
+P73557,P73557_SYNY3 RNA-binding protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssr1480 PE=4 SV=1,-1.9325076315550096,-1.4822488142725774,-1.235833522178793,-1.4822488142725774,0.35327239570275526,3
+Q55385,RRP3_SYNY3 Probable 30S ribosomal protein PSRP-3 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=slr0923 PE=1 SV=1,-1.4919681116795893,-1.8977189497102687,-1.3610986921680404,-1.4919681116795893,0.27979809635121305,3
+Q55162,Q55162_SYNY3 Sll0051 protein OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=sll0051 PE=4 SV=1,-1.5192837917646858,-1.5758895241501825,-2.063338348905636,-1.5758895241501825,0.2991114415621173,3
